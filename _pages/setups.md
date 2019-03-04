@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/headers/mesospim-red-green-setup.jpg
   caption: "Photo credit: [**Stephane Pages**]"
-excerpt: "Open-source light-sheet microscopes for imaging in cleared tissue."
+excerpt: "Light-sheet microscopes in Switzerland and beyond."
 feature_row0:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "HIFO mesoSPIM"
@@ -31,7 +31,8 @@ feature_row2:
 - image_path: /assets/images/setups/mesoSPIM-Wyss-lowres.jpg
   alt: "Wyss mesoSPIM"
   title: "#3 - Advanced Lightsheet Imaging Center, Wyss Center, Geneva, Switzerland"
-  excerpt: 'The first mesoSPIM outside of Zurich saw first light as a Version 3 in March 2018. It is open to users from both academia and industry.'
+  excerpt: 'The first mesoSPIM outside of Zurich saw first light as a Version 4 in March 2018. It is open to users from both academia and industry. The facility also contains
+  a CLARITY-optimized light-sheet microscope (COLM) for high-resolution imaging.'
   url: "https://www.wysscenter.ch/alice/"
   btn_label: "Link"
   btn_class: "btn--primary"
