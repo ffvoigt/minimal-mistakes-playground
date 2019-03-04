@@ -18,7 +18,7 @@ feature_row0:
     btn_label: "Link"
     btn_class: "btn--primary"
 feature_row1:
-- image_path: /assets/images/setups/mesoSPIM_USZ_scaled.jpg
+- image_path: /assets/images/setups/mesoSPIM-USZ-scaled.jpg
   alt: "USZ mesoSPIM"
   title: "Aguzzi lab, Institute of Neuropathology, University Hospital Zurich"
   excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
