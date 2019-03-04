@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Open-source light-sheet microscopes for imaging in cleared tissue."
 intro:
-  - excerpt: 'Nullam suscipit'
+  - excerpt: 'The mesoSPIM initative aims to provide '
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
