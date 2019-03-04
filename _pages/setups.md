@@ -18,12 +18,12 @@ feature_row0:
     btn_label: "Link"
     btn_class: "btn--primary"
 feature_row1:
-- image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-  alt: "placeholder image 2"
-  title: "Placeholder Image Left Aligned"
+- image_path: /assets/images/setups/mesoSPIM_USZ_scaled.jpg
+  alt: "USZ mesoSPIM"
+  title: "Aguzzi lab, Institute of Neuropathology, University Hospital Zurich"
   excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-  url: "#test-link"
-  btn_label: "Read More"
+  url: "http://www.en.neuropathologie.usz.ch/"
+  btn_label: "Link"
   btn_class: "btn--primary"
 ---
 {% include feature_row id="feature_row0" type="left" %}
