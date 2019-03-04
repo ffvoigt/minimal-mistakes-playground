@@ -6,7 +6,7 @@ date: 2019-03-04
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/headers/embryo_multiview_1600.jpg
   actions:
     - label: "Build your own"
       url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
