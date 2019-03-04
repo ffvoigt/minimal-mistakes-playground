@@ -8,12 +8,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Build your own"
+      url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Open-source light-sheet microscopes for imaging in cleared tissue."
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Nullam suscipit'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
