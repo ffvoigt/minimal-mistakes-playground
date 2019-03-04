@@ -12,10 +12,10 @@ excerpt: "Open-source light-sheet microscopes for imaging in cleared tissue."
 feature_row0:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Helmchen lab, Brain Research Institute, University of Zurich"
+    excerpt: 'The oldest mesoSPIM saw first light in October 2015 (as a Version 0). It always upgraded  currently set up as a Version 4. '
+    url: "https://www.hifo.uzh.ch/en/research/helmchen.html"
+    btn_label: "Link"
     btn_class: "btn--primary"
 feature_row1:
 - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
