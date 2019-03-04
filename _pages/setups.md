@@ -6,7 +6,7 @@ date: 2019-03-04
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/headers/mesospim-red-green-setup.jpg
+  overlay_image: /assets/images/headers/mesospim-red-green-setup-wide.jpg
   caption: "Photo credit: [**Stephane Pages**]"
 excerpt: "Light-sheet microscopes in Switzerland and beyond."
 feature_row0:
