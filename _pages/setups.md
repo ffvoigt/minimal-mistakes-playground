@@ -3,6 +3,12 @@ title: "Existing mesoSPIM setups"
 layout: splash
 permalink: /setups/
 date: 2019-03-04
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Open-source light-sheet microscopes for imaging in cleared tissue."
 feature_row0:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
