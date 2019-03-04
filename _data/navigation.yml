@@ -6,6 +6,8 @@ main:
     url: /gallery/
   - title: "Setups"
     url: /setups/
+  - title: "FAQ"
+    url: /faq/
   - title: "Publications"
     url: /publications/
   - title: "Blog"
