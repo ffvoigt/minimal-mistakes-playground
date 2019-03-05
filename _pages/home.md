@@ -8,7 +8,6 @@ header:
   actions:
     - label: "Build your own"
       url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Open-source light-sheet microscopes for imaging cleared tissue."
 intro:
   - excerpt: "The mesoSPIM (mesoscale selective plane illumination microscopy) project creates open-hardware microscopy platforms for imaging cleared tissue. "
