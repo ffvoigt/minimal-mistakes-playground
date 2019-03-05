@@ -52,8 +52,8 @@ feature_row3:
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/aslm/ASLM-VIP-Thy1-4x-bad-600.jpg
-    url: "/assets/images/aslm/ASLM-VIP-Thy1-4x-bad-1600.jpg"
+  - image_path: /assets/images/aslm/ASLM-Thy1-4x-bad-600.jpg
+    url: "/assets/images/aslm/ASLM-Thy1-4x-bad-1600.jpg"
     alt: "Typical XZ view of a mouse brain."
     title: "XZ view of Thy1-YFP mouse brain without ASLM"
     excerpt: 'Even at higher magnification, ASLM is helpful. In this Thy1-YFP
