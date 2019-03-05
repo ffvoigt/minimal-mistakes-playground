@@ -7,7 +7,7 @@ toc: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  image: "/assets/images/headers/cad_white_1600.jpg"
+  overlay_image: "/assets/images/headers/cad_white_1600.jpg"
   actions:
   - label: "Build your own"
     url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
