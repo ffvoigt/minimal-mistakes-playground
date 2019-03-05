@@ -1,14 +1,14 @@
 ---
 permalink: /features/
 title: "mesoSPIM features"
-layout: single
-classes: wide
+layout: splash
 excerpt: "Focus on image quality"
-toc: true
+toc: false
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: /assets/images/headers/thy1-1600.jpg
+  actions:
+  - label: "Build your own"
+    url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
 ---
 
 ## General questions
