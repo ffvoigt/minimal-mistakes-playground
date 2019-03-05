@@ -10,9 +10,6 @@ toc: false
 ## Preprints
 * Coming soon...
 
-## Technology Publications
-* Coming soon...
-
 ## Application Publications
 * Yvette Zarb, Ulrike Weber-Stadlbauer, Daniel Kirschenbaum, Diana Rita Kindler, Juliet Richetto, Daniel Keller, Rosa Rademakers, Dennis W. Dickson, Andreas Pasch, Tatiana Byzova, Khayrun Nahar, Fabian F. Voigt Fritjof Helmchen, Andreas Boss, Adriano Aguzzi, Jan Klohs, and Annika Keller: [Ossified blood vessels in primary familial brain calcification elicit a neurotoxic astrocyte response](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awz032/5364607); **Brain**, awz032, February 25th, 2019
 * Paola Perin, Fabian F. Voigt, Philipp Bethge, Fritjof Helmchen, and Roberto Pizzala:
