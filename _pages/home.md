@@ -15,9 +15,9 @@ intro:
 feature_row0:
   - image_path: assets/images/landing/mesoSPIM_1.jpg
     alt: "placeholder image 1"
-    title: "mesoSPIM Features"
+    title: "mesoSPIM features"
     excerpt: "Compatible with all clearing methods, simple and quick sample mounting
-    and exchange, ."
+    and exchange, reduced shadowing artifacts and many more..."
     url: "/features/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -30,8 +30,8 @@ feature_row0:
     btn_class: "btn--primary"
   - image_path: /assets/images/whole_cns/cns3_600.jpg
     title: "Image large Samples"
-    excerpt: "Fits a whole mouse CNS with 52 x 52 x 102 mm travel range - an imaging
-    volume larger than any other available light-sheet microscope."
+    excerpt: "Fits a whole mouse CNS with 52 x 52 x 102 mm travel range - a larger
+    sample volume than any other available light-sheet microscope."
     url: "/whole_cns_imaging/"
     btn_label: "Read More"
     btn_class: "btn--primary"
