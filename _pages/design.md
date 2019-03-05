@@ -1,6 +1,6 @@
 ---
 permalink: /design/
-title: "mesoSPIM hard- and software"
+title: "mesoSPIM design"
 layout: splash
 excerpt: "Open for everyone"
 toc: false
@@ -40,6 +40,7 @@ gallery:
     alt: "Purkinje neurons in the cerebellum"
     title: "mesoSPIM at the Wyss Center Geneva"
 ---
+$ mesoSPIM design
 
 {% include feature_row id="feature_row2" type="left" %}
 
