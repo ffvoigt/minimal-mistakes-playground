@@ -39,10 +39,10 @@ feature_row1:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/landing/geneva_2018_lowres.jpg
     title: "Meetings and workshops"
     excerpt: "Members of the mesoSPIM initative organize a variety of workshops for the community."
-    url: "/setups/"
+    url: "/meetings_and_workshops/"
     btn_label: "Existing setups"
     btn_class: "btn--primary"
   - image_path: /assets/images/setups/mesoSPIM-Wyss-lowres.jpg

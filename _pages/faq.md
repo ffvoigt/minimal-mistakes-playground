@@ -2,6 +2,7 @@
 permalink: /faq/
 title: "FAQ"
 layout: single
+classes: wide
 excerpt: "Frequently asked questions"
 toc: true
 ---
