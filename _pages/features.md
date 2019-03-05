@@ -11,30 +11,30 @@ header:
   actions:
   - label: "Build your own"
     url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
-feature_row0:
+feature_row_sample_and_data:
   - image_path: /assets/images/features/sample_and_data_600.jpg
     url: /assets/images/features/sample_and_data_1600.jpg
     alt: "placeholder image 2"
     title: "From your sample to data in less than 10 minutes"
-    excerpt: 'A mesoSPIM can provide you with isotropic overview data from a cleared 
+    excerpt: 'A mesoSPIM can provide you with isotropic overview data from a cleared
     and mounted whole mouse brain within less than 10 minutes.'
-    btn_label: "Read More"
+    btn_label: "Enlarge image"
     btn_class: "btn--primary"
-feature_row1:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Horizontal detection path"
+feature_row_multiview:
+  - image_path: /assets/images/features/multiview-600.jpg
+    alt: "Multiview imaging"
+    title: "Horizontal detection path and capable of multiview imaging"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "/assets/images/features/multiview-3840.jpg"
+    btn_label: "Enlarge image"
     btn_class: "btn--primary"
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "2-20 mm FOV "
-    excerpt: 'Using an Olympus MVX-10 in combination with a MVPLAPO1x objective'
+feature_row_sample_holders:
+  - image_path: /assets/images/features/sample_holders_600.jpg
+    alt: "Modular sample holders"
+    title: "Modular quick-exchange sample holders"
+    excerpt: 'A series of quick-exchange sample holders for '
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -94,11 +94,11 @@ feature_row9:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row0" type="left" %}
+{% include feature_row id="feature_row_sample_and_data" type="left" %}
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row_multiview" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row_sample_holders" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
