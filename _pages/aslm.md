@@ -1,51 +1,60 @@
 ---
 permalink: /aslm/
-title: "Imaging large samples with a mesoSPIM"
+title: "Axially scanned light-sheet microscopy"
 layout: splash
-excerpt: "Imaging a whole mouse CNS"
+excerpt: "The key to mesoSPIM performance."
 toc: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/headers/aslm-vip_1600.jpg
+  overlay_image: /assets/images/headers/aslm_vip_1600.jpg
   actions:
   - label: "Main page"
     url: "/"
 feature_row0:
   - image_path: /assets/images/aslm/ASLM-1_600.jpg
-    title: "Large travel range"
-    excerpt: 'The mesoSPIM Version 5 features stages from Physik Instrumente
-    with 52 x 52 x 102 mm travel range.
-    Ideally, the travel range should be sufficiently larger than your sample.  '
+    alt: "Standard light-sheet illumination"
+    title: "Varying light-sheet thickness leads to varying axial resolution."
+    excerpt: 'In a standard light-sheet microscope with Gaussian illumination,
+    the varying thickness of the lightsheet leads to axially blurred features
+    at the edges of the field of view.'
 feature_row1:
   - image_path: /assets/images/aslm/ASLM-2_600.jpg
-    alt: "Image a whole mouse CNS without cutting"
-    title: "Image a whole mouse CNS without cutting"
-    excerpt: 'Example autofluorescence & GFP datasets of a GlyT2::EGFP mouse CNS
-    cleared using X-CLARITY'
-feature_row3:
+    alt: "Concept of axially scanned light-sheet microscopy (ASLM)"
+    title: "Axially scanned light-sheet microscopy (ASLM)"
+    excerpt: 'In axially scanned light-sheet microscopy (ASLM), the waist of
+    the light-sheet is translated through the sample in synchrony with
+    the rolling shutter of the camera. The concept was published in 2015 by
+    Dean et al.'
+    url: "https://www.sciencedirect.com/science/article/pii/S0006349515004981"
+    btn_label: "ASLM paper"
+    btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/aslm/ASLM-VIP-bad-600.jpg
-    url: /assets/images/aslm/ASLM-VIP-bad-1600.jpg
-    alt: "Single cells in the spinal cord"
-    title: "Zoom in to resolve single cells"
-    excerpt: 'By zooming in, the sample can be imaged at higher resolution.  
-    Shown is a volume rendering of a subsection of the spinal cord imaged
-    at 4x magnification.'
+    url: "/assets/images/aslm/ASLM-VIP-bad-1600.jpg"
+    alt: "Typical XZ view of a whole mouse brain."
+    title: "XZ view of a slice of a whole mouse brain with standard light-sheet illumination."
+    excerpt: 'Here, a XZ view of a VIP-tdTomato mouse brain (cleared using passive
+      CLARITY) shows the axial
+    blurring of neurons gradually increasing from the center to the edges
+    of the FOV. Cells in the center are well resolved in z as they are close to the
+    waist locatation of the light-sheet. Cells at the edges, however, are blurred
+    and indistinguishable due to the thicker light-sheet.'
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
-feature_row4:
+feature_row3:
   - image_path: /assets/images/aslm/ASLM-VIP-good-600.jpg
-    url: /assets/images/aslm/ASLM-VIP-good-600.jpg
+    url: "/assets/images/aslm/ASLM-VIP-good-600.jpg"
     alt: "Sample mounting"
-    title: "Sample mounting"
-    excerpt: 'To image a whole mouse CNS, place the sample in a large imaging cuvette (10x20x120 mm) and submerge it in an even larger immersion cuvette (40x40x120 mm).'
+    title: "XZ view of a slice of a whole mouse brain with ASLM mode enabled"
+    excerpt: 'After switching the ASLM mode on, cells can be resolved in the axial direction across the whole FOV.'
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 ---
 {% include feature_row id="feature_row0" type="left" %}
 
-{% include feature_row id="feature_row1" type="right" %}
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
