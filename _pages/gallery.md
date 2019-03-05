@@ -20,30 +20,54 @@ gallery:
     image_path: /assets/images/gallery/mesoSPIM_geneva2_lowres.jpg
     alt: "mesoSPIM at the Wyss Center Geneva"
     title: "mesoSPIM at the Wyss Center Geneva"
+  - url: /assets/images/gallery/tph2_purkinje1_full.jpg
+    image_path: /assets/images/gallery/tph2_purkinje1_lowres.jpg
+    alt: "Purkinje neurons in the cerebellum"
+    title: "mesoSPIM at the Wyss Center Geneva"
   - url: /assets/images/gallery/human_cortex_mash1_full.jpg
     image_path: /assets/images/gallery/human_cortex_mash1_lowres.jpg
     alt: "Human cortex processed with MASH(ECi/iDISCO)"
     title: "Human cortex processed with MASH(ECi/iDISCO)"
-  - url: /assets/images/gallery/L5_YCX_1x__full.jpg
+  - url: /assets/images/gallery/human_cortex_mash2_full.jpg
+    image_path: /assets/images/gallery/human_cortex_mash2_lowres.jpg
+    alt: "Human cortex processed with MASH(ECi/iDISCO)"
+    title: "Human cortex processed with MASH(ECi/iDISCO)"
+  - url: /assets/images/gallery/BABB_chicken_7days_1_full.jpg
+    image_path: /assets/images/gallery/BABB_chicken_7days_1_lowres.jpg
+    alt: "7-day old chicken embryo cleared with BABB (Neurofilament staining)"
+    title: "7-day old chicken embryo cleared with BABB (Neurofilament staining)"
+  - url: /assets/images/gallery/BABB_chicken_7days_2_full.jpg
+    image_path: /assets/images/gallery/BABB_chicken_7days_2_lowres.jpg
+    alt: "7-day old chicken embryo cleared with BABB (Neurofilament staining)"
+    title: "7-day old chicken embryo cleared with BABB (Neurofilament staining)"
+  - url: /assets/images/gallery/BABB_chicken_7days_3_full.jpg
+    image_path: /assets/images/gallery/BABB_chicken_7days_3_lowres.jpg
+    alt: "7-day old chicken embryo cleared with BABB (Neurofilament staining)"
+    title: "7-day old chicken embryo cleared with BABB (Neurofilament staining)"
+  - url: /assets/images/gallery/L5_YCX_1x_full.jpg
     image_path: /assets/images/gallery/L5_YCX_1x_lowres.jpg
     alt: "Rbp4-cre-YCX2.60 mouse brain: L5 neurons and autofluorescence"
     title: "Rbp4-cre-YCX2.60 mouse brain: L5 neurons and autofluorescence"
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+  - url: /assets/images/gallery/L5_YCX_DG_full.jpg
+    image_path: /assets/images/gallery/L5_YCX_DG_lowres.jpg
+    alt: "Rbp4-cre-YCX2.60 mouse brain: Hippocampus (XY view)"
+    title: "Rbp4-cre-YCX2.60 mouse brain: Hippocampus (XY view)"
+  - url: /assets/images/gallery/L5_YCX_DG_reslice_full.jpg
+    image_path: /assets/images/gallery/L5_YCX_DG_reslice_lowres.jpg
+    alt: "Rbp4-cre-YCX2.60 mouse brain: Hippocampus (XZ view)"
+    title: "Rbp4-cre-YCX2.60 mouse brain: Hippocampus (XZ view)"
+  - url: /assets/images/gallery/DISCO_rat_OB_1_full.jpg
+    image_path: /assets/images/gallery/DISCO_rat_OB_1_lowres.jpg
+    alt: "Rat olfactory bulb with nuclear staining (ToPro) - XY view"
+    title: "Rat olfactory bulb with nuclear staining (ToPro) - XY view"
+  - url: /assets/images/gallery/DISCO_rat_OB_2_full.jpg
+    image_path: /assets/images/gallery/DISCO_rat_OB_2_lowres.jpg
+    alt: "Rat olfactory bulb with nuclear staining (ToPro) - XZ view"
+    title: "Rat olfactory bulb with nuclear staining (ToPro) - XZ view"
+  - url: /assets/images/gallery/DISCO_rat_OB_3_full.jpg
+    image_path: /assets/images/gallery/DISCO_rat_OB_3_lowres.jpg
+    alt: "Rat olfactory bulb with nuclear staining (ToPro) - YZ view"
+    title: "Rat olfactory bulb with nuclear staining (ToPro) - YZ view"
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="The mesoSPIM gallery." %}
