@@ -5,7 +5,8 @@ layout: splash
 excerpt: "Open for everyone"
 toc: false
 header:
-  overlay_image: /assets/images/headers/cad_white_1600.jpg
+  image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
   - label: "Build your own"
     url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
