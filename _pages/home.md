@@ -21,11 +21,11 @@ feature_row0:
     url: "/features/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+  - image_path: /assets/images/landing/ASLM-VIP-landing-600.jpg
+    alt: "Axially scanned light-sheet microscopy"
     title: "Isotropy across large FOVs"
     excerpt: "The mesoSPIM is an axially scanned light-sheet microscope (ASLM) for uniform z-resolution across the FOV."
-    url: "#test-link"
+    url: "/aslm/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/whole_cns/cns3_600.jpg
