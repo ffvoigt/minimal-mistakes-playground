@@ -15,7 +15,7 @@ excerpt: "Open-source light-sheet microscopes for imaging in cleared tissue."
 intro:
   - excerpt: "The mesoSPIM (mesoscale selective plane illumination microscopy) project aims at creating open-hardware microscopy platforms for imaging in cleared tissue. "
 feature_row0:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/landing/mesoSPIM_1.jpg
     alt: "placeholder image 1"
     title: "All clearing methods"
     excerpt: "The microscope is compatible with all clearing methods."
