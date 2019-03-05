@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  - title: "Features"
+    url: /features/
+  - title: "Design"
+    url: /design/
   - title: "Gallery"
     url: /gallery/
   - title: "Setups"
@@ -14,7 +16,5 @@ main:
     url: /meetings_and_workshops/
   - title: "Blog"
     url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /about/

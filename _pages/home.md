@@ -23,7 +23,6 @@ feature_row0:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Isotropy across large FOVs"
     excerpt: "The mesoSPIM is an axially scanned light-sheet microscope (ASLM) for uniform z-resolution across the FOV."
@@ -38,7 +37,6 @@ feature_row0:
     btn_class: "btn--primary"
 feature_row1:
   - image_path: /assets/images/landing/mesoSPIM_V5_lowres.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Open hard & software"
     excerpt: "The mesoSPIM is an open hardware project."
