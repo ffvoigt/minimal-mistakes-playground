@@ -40,7 +40,6 @@ gallery:
     alt: "Purkinje neurons in the cerebellum"
     title: "mesoSPIM at the Wyss Center Geneva"
 ---
-$ mesoSPIM design
 
 {% include feature_row id="feature_row2" type="left" %}
 
