@@ -6,7 +6,7 @@ excerpt: "The key to mesoSPIM performance."
 toc: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/headers/aslm_vip_1600.jpg
   actions:
   - label: "Main page"
@@ -25,7 +25,8 @@ feature_row1:
     excerpt: 'In axially scanned light-sheet microscopy (ASLM), the waist of
     the light-sheet is translated through the sample in synchrony with
     the rolling shutter of the camera. The concept was published in 2015 by
-    Dean et al.'
+    Dean et al. (Fiolka group). To translate the waist, we use tuneable lenses
+    by Optotune.'
     url: "https://www.sciencedirect.com/science/article/pii/S0006349515004981"
     btn_label: "ASLM paper"
     btn_class: "btn--primary"
@@ -39,15 +40,34 @@ feature_row2:
     blurring of neurons gradually increasing from the center to the edges
     of the FOV. Cells in the center are well resolved in z as they are close to the
     waist locatation of the light-sheet. Cells at the edges, however, are blurred
-    and indistinguishable due to the thicker light-sheet.'
+    and indistinguishable due to the thicker light-sheet. '
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/aslm/ASLM-VIP-good-600.jpg
-    url: "/assets/images/aslm/ASLM-VIP-good-600.jpg"
-    alt: "Sample mounting"
+    url: "/assets/images/aslm/ASLM-VIP-good-1600.jpg"
+    alt: "XZ view after switching ASLM on"
     title: "XZ view of a slice of a whole mouse brain with ASLM mode enabled"
     excerpt: 'After switching the ASLM mode on, cells can be resolved in the axial direction across the whole FOV.'
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/aslm/ASLM-VIP-Thy1-4x-600.jpg
+    url: "/assets/images/aslm/ASLM-VIP-Thy1-4x-1600.jpg"
+    alt: "Typical XZ view of a mouse brain."
+    title: "XZ view of Thy1-YFP mouse brain without ASLM"
+    excerpt: 'Even at higher magnification, ASLM is helpful. In this Thy1-YFP
+    dataset taken at zoom 4x, axons and dendrites at the edges of the FOV
+    are blurred.'
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
+feature_row5:
+  - image_path: /assets/images/aslm/ASLM-Thy1-4x-good-600.jpg
+    url: "/assets/images/aslm/ASLM-Thy1-4x-good-1600.jpg"
+    alt: "XZ view after switching ASLM on"
+    title: "XZ view of Thy1-YFP mouse brain with ASLM"
+    excerpt: 'After switching the ASLM mode on, dendrites and axons
+    are well resolved in the XZ plane.'
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 ---
