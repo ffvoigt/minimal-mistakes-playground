@@ -10,20 +10,28 @@ header:
   actions:
   - label: "Build your own"
     url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
+feature_row_cad_overview:
+  - image_path: /assets/images/cad/mesoSPIM_V5_2_600.jpg
+    alt: "Simplified optical design"
+    title: "Optical design: Concept"
+    excerpt: 'Simplified optical design of the mesoSPIM excitation path'
+    url: /assets/images/cad/mesoSPIM_V5_2_1600.jpg
+    btn_label: "Enlarge image"
     btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
+feature_row_simplified_optical_design:
+  - image_path: /assets/images/design/simplified-optical-design-600.jpg
+    alt: "Simplified optical design"
+    title: "Optical design: Concept"
+    excerpt: 'Simplified optical design of the mesoSPIM excitation path'
+    url: /assets/images/design/simplified-optical-design-1600.jpg
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
+feature_row_optical_design:
+  - image_path: /assets/images/design/excitation_path-zemax-3D_600.jpg
+    alt: "Optical design"
+    title: "Optical design of the excitation path"
+    excerpt: 'Full design of the excitation path.'
+    url: /assets/images/design/excitation_path-zemax-3D.jpg
     btn_label: "Read More"
     btn_class: "btn--primary"
 gallery:
@@ -41,8 +49,8 @@ gallery:
     title: "mesoSPIM at the Wyss Center Geneva"
 ---
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row_simplified_optical_design" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row_optical_design" type="left" %}
 
 {% include gallery caption="The mesoSPIM gallery." %}
