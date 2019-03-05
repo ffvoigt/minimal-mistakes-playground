@@ -12,6 +12,15 @@ header:
   - label: "Build your own"
     url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
 feature_row0:
+  - image_path: /assets/images/features/sample_and_data_600.jpg
+    url: /assets/images/features/sample_and_data_1600.jpg
+    alt: "placeholder image 2"
+    title: "From your sample to data in less than 10 minutes"
+    excerpt: 'A mesoSPIM can provide you with isotropic overview data from a cleared 
+    and mounted whole mouse brain within less than 10 minutes.'
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row1:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Horizontal detection path"
@@ -19,7 +28,7 @@ feature_row0:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row1:
+feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "2-20 mm FOV "
@@ -27,7 +36,7 @@ feature_row1:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
+feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Dual-sided illumination"
@@ -35,7 +44,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Reduced shadowing artifacts"
@@ -43,7 +52,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row5:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Uniform axial resolution across the FOV"
@@ -51,7 +60,7 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row5:
+feature_row6:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "52 x 52 x 102 mm travel range"
@@ -59,7 +68,7 @@ feature_row5:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row6:
+feature_row7:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Compatible with all clearing techniques"
@@ -67,7 +76,7 @@ feature_row6:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row7:
+feature_row8:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Compatible with all sample mounting in cuvettes"
@@ -75,7 +84,7 @@ feature_row7:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row8:
+feature_row9:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Compatible with all sample mounting in cuvettes"
@@ -102,3 +111,5 @@ feature_row8:
 {% include feature_row id="feature_row7" type="left" %}
 
 {% include feature_row id="feature_row8" type="left" %}
+
+{% include feature_row id="feature_row9" type="left" %}
