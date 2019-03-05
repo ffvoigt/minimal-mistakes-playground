@@ -43,7 +43,9 @@ feature_row3:
     url: /assets/images/whole_cns/cns4_1600.jpg
     alt: "Single cells in the spinal cord"
     title: "Zoom in to resolve single cells"
-    excerpt: 'By zooming in, the sample can be imaged at higher resolution.'
+    excerpt: 'By zooming in, the sample can be imaged at higher resolution.  
+    Shown is a volume rendering of a subsection of the spinal cord imaged
+    at 4x magnification.'
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row4:
