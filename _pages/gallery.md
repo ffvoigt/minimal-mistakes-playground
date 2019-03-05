@@ -72,6 +72,18 @@ gallery:
     image_path: /assets/images/gallery/DISCO_rat_OB_3_lowres.jpg
     alt: "Rat olfactory bulb with nuclear staining (ToPro) - YZ view"
     title: "Rat olfactory bulb with nuclear staining (ToPro) - YZ view"
+  - url: /assets/images/gallery/iDISCO_mouse_vasculature_1_full.jpg
+    image_path: /assets/images/gallery/iDISCO_mouse_vasculature_1_lowres.jpg
+    alt: "Mouse vasculature (iDISCO) - XY view"
+    title: "Mouse vasculature (iDISCO) - XY view"
+  - url: /assets/images/gallery/iDISCO_mouse_vasculature_2_full.jpg
+    image_path: /assets/images/gallery/iDISCO_mouse_vasculature_2_lowres.jpg
+    alt: "Mouse vasculature (iDISCO) - XZ view"
+    title: "Mouse vasculature (iDISCO) - XZ view"
+  - url: /assets/images/gallery/iDISCO_mouse_vasculature_3_full.jpg
+    image_path: /assets/images/gallery/iDISCO_mouse_vasculature_3_lowres.jpg
+    alt: "Mouse vasculature (iDISCO) - XY view"
+    title: "Mouse vasculature (iDISCO) - XY view"
 ---
 
 {% include gallery caption="The mesoSPIM gallery." %}
