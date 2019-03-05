@@ -3,7 +3,9 @@ permalink: /meetings_and_workshops/
 title: "mesoSPIM Initative Meetings and Workshops"
 layout: single
 classes: wide
-toc: true
+excerpt: "Learn how to build & use a mesoSPIM"
+toc: false
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
