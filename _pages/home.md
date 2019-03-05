@@ -27,10 +27,10 @@ feature_row0:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/whole_cns/cns3_600.jpg
     title: "Large sample scanning"
     excerpt: "Fits a whole mouse CNS with 52 x 52 x 102 mm travel range"
-    url: "#test-link"
+    url: "/whole_cns_imaging/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row1:
