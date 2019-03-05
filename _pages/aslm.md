@@ -1,5 +1,5 @@
 ---
-permalink: /whole_cns_imaging/
+permalink: /aslm/
 title: "Imaging large samples with a mesoSPIM"
 layout: splash
 excerpt: "Imaging a whole mouse CNS"
