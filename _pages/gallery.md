@@ -84,6 +84,18 @@ gallery:
     image_path: /assets/images/gallery/iDISCO_mouse_vasculature_3_lowres.jpg
     alt: "Mouse vasculature (iDISCO) - XY view"
     title: "Mouse vasculature (iDISCO) - XY view"
+  - url: /assets/images/whole_cns/cns2_1600.jpg
+    image_path: /assets/images/whole_cns/cns2_600.jpg
+    alt: "Central nervous system of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Horizontal view"
+    title: "Central nervous system of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Horizontal view"
+  - url: /assets/images/whole_cns/cns3_1600.jpg
+    image_path: /assets/images/whole_cns/cns3_600.jpg
+    alt: "Central nervous system of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Sagittal view"
+    title: "Central nervous system of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Sagittal view"
+  - url: /assets/images/whole_cns/cns341600.jpg
+    image_path: /assets/images/whole_cns/cns4_600.jpg
+    alt: "Part of the spinal cord of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Volume rendering"
+    title: "Part of the spinal cord of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Volume rendering"
 ---
 
 {% include gallery caption="The mesoSPIM gallery." %}

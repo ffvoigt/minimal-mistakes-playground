@@ -25,7 +25,7 @@ feature_row1:
     url: /assets/images/whole_cns/cns2_1600.jpg
     alt: "Image a whole mouse CNS without cutting"
     title: "Image a whole mouse CNS without cutting"
-    excerpt: 'Example autofluorescence & GFP datasets of a GlyT2-EGFP mouse CNS
+    excerpt: 'Example autofluorescence & GFP datasets of a GlyT2::EGFP mouse CNS
     cleared using X-CLARITY'
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
