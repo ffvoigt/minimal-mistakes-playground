@@ -9,7 +9,7 @@ tags:
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/headers/chick_embryo.jpg
+  overlay_image: /assets/images/headers/chick_embryo2.jpg
   caption: "6-day chick embryo stained for neurofilament."
 gallery:
   - url: /assets/images/gallery/mesoSPIM_geneva1_full.jpg
@@ -30,6 +30,10 @@ gallery:
     title: "Human cortex processed with MASH(ECi/iDISCO)"
   - url: /assets/images/gallery/human_cortex_mash2_full.jpg
     image_path: /assets/images/gallery/human_cortex_mash2_lowres.jpg
+    alt: "Human cortex processed with MASH(ECi/iDISCO)"
+    title: "Human cortex processed with MASH(ECi/iDISCO)"
+  - url: /assets/images/gallery/human_cortex_mash3_full.jpg
+    image_path: /assets/images/gallery/human_cortex_mash3_lowres.jpg
     alt: "Human cortex processed with MASH(ECi/iDISCO)"
     title: "Human cortex processed with MASH(ECi/iDISCO)"
   - url: /assets/images/gallery/BABB_chicken_7days_1_full.jpg
