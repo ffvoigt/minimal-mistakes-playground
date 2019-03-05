@@ -92,7 +92,7 @@ gallery:
     image_path: /assets/images/whole_cns/cns3_600.jpg
     alt: "Central nervous system of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Sagittal view"
     title: "Central nervous system of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Sagittal view"
-  - url: /assets/images/whole_cns/cns341600.jpg
+  - url: /assets/images/whole_cns/cns4_1600.jpg
     image_path: /assets/images/whole_cns/cns4_600.jpg
     alt: "Part of the spinal cord of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Volume rendering"
     title: "Part of the spinal cord of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Volume rendering"
