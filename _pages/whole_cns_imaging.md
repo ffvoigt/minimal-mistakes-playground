@@ -13,7 +13,7 @@ header:
     url: "/"
 feature_row0:
   - image_path: /assets/images/cad/mesoSPIM_V5_2_600.jpg
-    url: /assets/images/cad/mesoSPIM_V5_2_1600.jpg
+    url: "/assets/images/cad/mesoSPIM_V5_2_1600.jpg"
     title: "Large travel range"
     excerpt: 'The mesoSPIM Version 5 features stages from Physik Instrumente
     with 52 x 52 x 102 mm travel range.
@@ -22,7 +22,7 @@ feature_row0:
     btn_class: "btn--primary"
 feature_row1:
   - image_path: /assets/images/whole_cns/cns2_600.jpg
-    url: /assets/images/whole_cns/cns2_1600.jpg
+    url: "/assets/images/whole_cns/cns2_1600.jpg"
     alt: "Image a whole mouse CNS without cutting"
     title: "Image a whole mouse CNS without cutting"
     excerpt: 'Example autofluorescence & GFP datasets of a GlyT2::EGFP mouse CNS
@@ -31,7 +31,7 @@ feature_row1:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/whole_cns/cns3_600.jpg
-    url: /assets/images/whole_cns/cns3_1600.jpg
+    url: "/assets/images/whole_cns/cns3_1600.jpg"
     alt: "Multiview imaging"
     title: "Multiview imaging"
     excerpt: 'Rotate the sample to obtain a second view or - in the ideal case -
@@ -50,7 +50,7 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/whole_cns/cns5_600.jpg
-    url: /assets/images/whole_cns/cns5_1600.jpg
+    url: "/assets/images/whole_cns/cns5_1600.jpg"
     alt: "Sample mounting"
     title: "Sample mounting"
     excerpt: 'To image a whole mouse CNS, place the sample in a large imaging cuvette (10x20x120 mm) and submerge it in an even larger immersion cuvette (40x40x120 mm).'
