@@ -3,14 +3,14 @@ title: "Gallery"
 permalink: /gallery/
 layout: splash
 categories:
-  - Post Formats
+  - Gallery
 tags:
   - gallery
-  header:
-    overlay_color: "#000"
-    overlay_filter: "0.4"
-    overlay_image: /assets/images/headers/chick_embryo.jpg
-    caption: "6-day chick embryo stained for neurofilament."
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/headers/chick_embryo.jpg
+  caption: "6-day chick embryo stained for neurofilament."
 gallery:
   - url: /assets/images/gallery/mesoSPIM_geneva1_full.jpg
     image_path: /assets/images/gallery/mesoSPIM_geneva1_lowres.jpg
