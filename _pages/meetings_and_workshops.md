@@ -3,7 +3,7 @@ permalink: /meetings_and_workshops/
 title: "mesoSPIM Initative Meetings and Workshops"
 layout: single
 classes: wide
-excerpt: "Learn how to build & use a mesoSPIM"
+excerpt: "Learn how to build & use a mesoSPIM."
 toc: false
 
 header:

@@ -2,8 +2,9 @@
 permalink: /publications/
 title: "mesoSPIM Publications"
 layout: single
-excerpt: "Publications and preprints of the mesoSPIM initative"
-toc: true
+classes: wide
+excerpt: "Publications and preprints of the mesoSPIM initative."
+toc: false
 ---
 
 ## Preprints
