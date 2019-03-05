@@ -36,6 +36,14 @@ feature_row_sample_holders:
     url: "#test-link"
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
+feature_row_software:
+  - image_path: /assets/images/features/mesospim-control-600.jpg
+    alt: "placeholder image 2"
+    title: "Software: mesoSPIM-control"
+    excerpt: 'The mesoSPIM-control software is based on Python and PyQt5.'
+    url: /assets/images/features/mesospim-control-1600.jpg
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -100,7 +108,7 @@ feature_row9:
 
 {% include feature_row id="feature_row_sample_holders" type="left" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row_software" type="left" %}
 
 {% include feature_row id="feature_row4" type="left" %}
 
