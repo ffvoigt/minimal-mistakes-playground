@@ -6,10 +6,10 @@ main:
     url: /design/
   - title: "Gallery"
     url: /gallery/
-  - title: "Setups"
-    url: /setups/
   - title: "FAQ"
     url: /faq/
+  - title: "Setups"
+    url: /setups/
   - title: "Publications"
     url: /publications/
   - title: "Meetings"
