@@ -10,6 +10,39 @@ toc: false
 ## Mission
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
+## Team
+
+## Collaborators
+### University of Zurich & ETH Zurich
+Evgenia Platonova, Rahel Kästli, Martina Schättin, Philipp Bethge, Karen Haenraets,
+Noémie Frézel, Esther Stöckli, Urs Ziegler, Hanns Ulrich Zeilhofer, Theofanis Karayannis
+
+### University Hospital Zurich
+Daniel Kirschenbaum, Adriano Aguzzi
+
+### Wyss Center for Bio- and Neuroengineering
+Stéphane Pagès, Laura Batti
+
+### Sainsbury Wellcome Centre for Neural Circuits and Behaviour, London
+Robert A. A. Campbell
+
+### University of Pavia
+Paola Perin, Roberto Pizzala
+
+### University of Geneva
+Anthony Holtmaat, Christian Lüscher
+
+## Contact
+Fabian Voigt
+[Email](mailto:voigt@hifo.uzh.ch)
+Brain Research Institute
+University of Zurich
+Winterthurerstrasse 190
+CH-8057 Switzerland
+
+
+
+
 ## Notable Features
 
 - Bundled as a "theme gem" for easier install/upgrading.
