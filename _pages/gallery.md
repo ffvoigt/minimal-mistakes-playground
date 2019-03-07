@@ -8,7 +8,7 @@ tags:
   - gallery
 header:
   overlay_color: "#000"
-  overlay_filter: "0.1"
+  overlay_filter: "0.2"
   overlay_image: /assets/images/headers/chick_embryo2.jpg
   caption: "6-day chick embryo stained for neurofilament."
 excerpt: "From setups to datasets."
