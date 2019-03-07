@@ -40,7 +40,7 @@ in mice ([miniSPIM](https://www.osapublishing.org/ol/viewmedia.cfm?uri=ol-35-9-1
 in Dresden which resulted in the [ETL-SPIM](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-18-21010), a fast volume scanning light-sheet microscope.
 In his MSc studies at ETH Zurich, he designed [two-photon mesoscopes](https://elifesciences.org/articles/14679). In a collaboration
 with the lab of [Ursula Keller at ETH Zurich](http://www.ulp.ethz.ch/), he designed
-cost-efficient femtosecond lasers and [demonstrated their potential for multiphoton imaging](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-8-7-3213).
+cost-efficient femtosecond semiconductor disk lasers and [demonstrated their potential for multiphoton imaging](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-8-7-3213).
 The mesoSPIM initiative is part of his PhD studies at the University of Zurich.
 
 ![image-left]({{ site.url }}/assets/images/authors/FHelmchen_2012_crop_small2.jpg){: .align-left}**Fritjof Helmchen** is Professor of Neuroscience and Co-Director of the Brain Research Institute.
