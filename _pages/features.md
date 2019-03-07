@@ -37,7 +37,7 @@ feature_row_multiview:
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row_sample_holders:
-  - image_path: /assets/images/features/sample_holders_600.jpg
+  - image_path: /assets/images/features/sample_and_data_600.jpg
     alt: "Modular sample holders"
     title: "Modular quick-exchange sample holders"
     excerpt: 'A series of quick-exchange sample holders for '
