@@ -12,15 +12,15 @@ excerpt: "Light-sheet microscopes in Switzerland and beyond."
 feature_row0:
   - image_path: /assets/images/gallery/mesoSPIM_hifo1_lowres.jpg
     alt: "HIFO mesoSPIM"
-    title: "#1 - Helmchen lab, Brain Research Institute, University of Zurich, Switzerland"
-    excerpt: 'The oldest mesoSPIM saw first light in October 2015 (as a Version 0). The most recent upgrade in May 2018 brought it to Version 4. The microscope is accessible within collaborations with the Helmchen lab.'
+    title: "#1 - Helmchen Lab, Brain Research Institute, University of Zurich, Switzerland"
+    excerpt: 'The oldest mesoSPIM saw first light in October 2015 (as a Version 0). The most recent upgrade in May 2018 brought it up to Version 4. The microscope is accessible within collaborations with the Helmchen lab.'
     url: "https://www.hifo.uzh.ch/en/research/helmchen.html"
     btn_label: "Link"
     btn_class: "btn--primary"
 feature_row1:
 - image_path: /assets/images/setups/mesoSPIM-USZ-lowres.jpg
   alt: "USZ mesoSPIM"
-  title: "#2 - Aguzzi lab, Institute of Neuropathology, University Hospital Zurich, Switzerland"
+  title: "#2 - Aguzzi Lab, Institute of Neuropathology, University Hospital Zurich, Switzerland"
   excerpt: 'The second oldest mesoSPIM was set up as a Version 3 in July 2017 and
   upgraded to V4 in May 2018.'
   url: "http://www.en.neuropathologie.usz.ch/"

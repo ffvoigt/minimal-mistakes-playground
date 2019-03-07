@@ -49,7 +49,7 @@ is also designed to reduce shadowing and contains tunable lenses for the [ASLM m
 which allows for uniform axial resolution across the FOV. In addition, the mesoSPIM
 excitation path is dual-sided like a variant of the openSPIM (the T-SPIM).
 All existing mesoSPIM setups have at least for laser lines to be able to image a wide variety
-of fluorophores. All these additional features mean that a typical mesoSPIM is  
+of fluorophores. All these additional features mean that a typical mesoSPIM is
 two to five-fold more expensive as common openSPIM variants.
 
 ### Where can find a mesoSPIM to test my samples?
