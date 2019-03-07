@@ -53,7 +53,7 @@ feature_row_software:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_sample_mounting:
-  - image_path: /assets/images/features/sample_mounting_600.jpg
+  - image_path: /assets/images/features/sample_and_data_600.jpg
     alt: "Easy sample mounting"
     title: "Easy sample mounting"
     excerpt: 'Sample mounting text'
