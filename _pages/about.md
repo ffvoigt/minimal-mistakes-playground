@@ -16,16 +16,19 @@ the other hand, it strives to provide instrumentation developers with
 imaging platforms that can be tailored towards specific needs – i.e. to accommodate
 uncommonly large samples or different illumination schemes.
 
-In addition, we
+In addition, we foster interactions between the developers of clearing methods,
+instrumentation designers and users by organizing [meetings and workshops](/meetings_and_workshops/).
 
 ## Team
-![image-left]({{ site.url }}/assets/images/authors/voigt.jpg){: .align-left}Fabian F. Voigt is a PhD student in the laboratory of Fritjof Helmchen at
+![image-left]({{ site.url }}/assets/images/authors/voigt3.jpg){: .align-left}Fabian F. Voigt is a PhD student in the laboratory of Fritjof Helmchen at
 the Brain Research Institute, University of Zurich. As a BSc student in Interdisciplinary
 Science, Fabian started out building light-sheet endoscopes. He then switched to
 designing and building two-photon mesoscopes and femtosecond lasers in his MSc studies at ETH
 Zurich. The mesoSPIM initative is part of his PhD studies at the University of Zurich.
 
-Fritjof Helmchen is Professor of Neuroscience and Co-Director of the Brain Research Institute.
+FHelmchen_2012_crop_small2.jpg
+
+![image-left]({{ site.url }}/assets/images/authors/FHelmchen_2012_crop_small2.jpg){: .align-left}Fritjof Helmchen is Professor of Neuroscience and Co-Director of the Brain Research Institute.
 His research is focused on the development and application of optical methods, in
 particular two-photon microscopy, to study neural activity on the subcellular, cellular,
 and circuit level. His group has pioneered several microscopy techniques, including
