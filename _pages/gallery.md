@@ -43,7 +43,7 @@ gallery:
     image_path: /assets/images/gallery/TPH2_tdTomato_0_lowres.jpg
     alt: "Overview image of a TPH2Cre-tdTomato mouse brain cleared using passive CLARITY."
     title: "Overview image of a TPH2Cre-tdTomato mouse brain cleared using passive CLARITY."
-  - url: /assets/images/gallery/TPH2_tdTomato_1_full.jpg
+  - url: /assets/images/gallery/TPH2_tdTomato_1_lowres.jpg
     image_path: /assets/images/gallery/TPH2_tdTomato_1_full.jpg
     alt: "Overview image (XZ view) of a TPH2Cre-tdTomato mouse cerebellum cleared using passive CLARITY."
     title: "Overview image (XZ view) of a TPH2Cre-tdTomato mouse cerebellum cleared using passive CLARITY."  
@@ -131,4 +131,4 @@ gallery:
     title: "Part of the spinal cord of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Volume rendering"
 ---
 
-{% include gallery caption="The mesoSPIM gallery." %}
+{% include gallery %}
