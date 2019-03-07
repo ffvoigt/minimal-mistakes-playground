@@ -5,12 +5,13 @@ categories:
   - Post
 tags:
   - mesospim
+  - slmw2019
 author: Fabian Voigt
 ---
 ![alt]({{ site.url }}/assets/images/meetings/SLMW_V14_A3_low_quality.jpg)
 
 The Swiss Light-sheet Microscopy Workshop will take place on April 24th & 25th, 2019.
-The venus is the the Irchel Campus of the University of Zurich.
+The venue is the the Irchel Campus of the University of Zurich.
 
 The aim of the event is to strengthen the local and international network
 and facilitate the exchange of ideas between the lightsheet users and developers.
@@ -30,5 +31,7 @@ Speakers include:
 * Nicolas Renier ICM, Paris
 * Raju Tomer Columbia University, New York
 
-Thanks to our sponsors, **registration is free of charge!** Please register
-[here](https://www.zmb.uzh.ch/en/slmw.html)
+Thanks to our sponsors, **registration is free of charge!**
+Please register [here](https://www.zmb.uzh.ch/en/slmw.html)
+
+**Registration deadline is Friday, March 29th, 2019.**
