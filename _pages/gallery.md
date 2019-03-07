@@ -12,10 +12,26 @@ header:
   overlay_image: /assets/images/headers/chick_embryo2.jpg
   caption: "6-day chick embryo stained for neurofilament."
 gallery:
+  - url: /assets/images/gallery/mesospim_wyss2_full.jpg
+    image_path: /assets/images/gallery/mesospim_wyss2_lowres.jpg
+    alt: "mesoSPIM at the Wyss Center Geneva"
+    title: "mesoSPIM at the Wyss Center Geneva"
+  - url: /assets/images/gallery/mesoSPIM_geneva_4_full.jpg
+    image_path: /assets/images/gallery/mesoSPIM_geneva_4_lowres.jpg
+    alt: "mesoSPIM at the Wyss Center Geneva"
+    title: "mesoSPIM at the Wyss Center Geneva"
+  - url: /assets/images/gallery/mesoSPIM_geneva_3_full.jpg
+    image_path: /assets/images/gallery/mesoSPIM_geneva_3_lowres.jpg
+    alt: "mesoSPIM at the Wyss Center Geneva"
+    title: "mesoSPIM at the Wyss Center Geneva"
   - url: /assets/images/gallery/mesoSPIM_geneva1_full.jpg
     image_path: /assets/images/gallery/mesoSPIM_geneva1_lowres.jpg
     alt: "mesoSPIM at the Wyss Center Geneva"
-    title: "mesoSPIM at the Wyss Center Geneva"
+    title: "mesoSPIM at the Wyss Center Geneva after installation"
+  - url: /assets/images/gallery/mesospim_sample_1_full.jpg
+    image_path: /assets/images/gallery/mesospim_sample_1_lowres.jpg
+    alt: "Whole-brain sample in a mesoSPIM."
+    title: "Whole-brain sample in a mesoSPIM."    
   - url: /assets/images/gallery/mesoSPIM_geneva2_full.jpg
     image_path: /assets/images/gallery/mesoSPIM_geneva2_lowres.jpg
     alt: "mesoSPIM at the Wyss Center Geneva"
