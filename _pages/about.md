@@ -32,7 +32,7 @@ After some unsatisfactory tests of existing commercial setups, we decided to bui
 For more information on the mesoSPIM history, please visit the [mesoSPIM wiki](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation/wiki/mesoSPIM_history).
 
 ## Team
-![image-left]({{ site.url }}/assets/images/authors/voigt3.jpg){: .align-left}Fabian F. Voigt is a PhD student in the laboratory of Fritjof Helmchen at
+![image-left]({{ site.url }}/assets/images/authors/voigt3.jpg){: .align-left}**Fabian F. Voigt** is a PhD student in the laboratory of Fritjof Helmchen at
 the Brain Research Institute, University of Zurich. As a BSc student in Interdisciplinary
 Science, Fabian started out building light-sheet endoscopes for in vivo calcium imaging
 in mice ([miniSPIM](https://www.osapublishing.org/ol/viewmedia.cfm?uri=ol-35-9-1413)). In his BSc thesis, he used electrically tunable lenses (ETL) for fast
@@ -43,7 +43,7 @@ with the lab of [Ursula Keller at ETH Zurich](http://www.ulp.ethz.ch/), he desig
 cost-efficient femtosecond lasers and [demonstrated their potential for multiphoton imaging](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-8-7-3213).
 The mesoSPIM initative is part of his PhD studies at the University of Zurich.
 
-![image-left]({{ site.url }}/assets/images/authors/FHelmchen_2012_crop_small2.jpg){: .align-left}Fritjof Helmchen is Professor of Neuroscience and Co-Director of the Brain Research Institute.
+![image-left]({{ site.url }}/assets/images/authors/FHelmchen_2012_crop_small2.jpg){: .align-left}**Fritjof Helmchen** is Professor of Neuroscience and Co-Director of the Brain Research Institute.
 His research is focused on the development and application of optical methods, in
 particular two-photon microscopy, to study neural activity on the subcellular, cellular,
 and circuit level. His group has pioneered several microscopy techniques, including
