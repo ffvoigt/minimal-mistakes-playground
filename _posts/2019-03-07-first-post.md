@@ -12,7 +12,7 @@ author: Fabian Voigt
 After a long wait, it is **finally time to retire** the "Coming-soon" page that was
 displayed at mesospim.org and replace it with this new webpage!
 
-Here, you'll find news around the mesoSPIM project, an open hardware initative
+Here, you'll find news around the mesoSPIM project, an open hardware initiative
 aimed at providing versatile mesoscopy platforms to image cm-sized cleared samples.
 
 The mesospim.org webpage serves as a gateway for mesoSPIM resources:

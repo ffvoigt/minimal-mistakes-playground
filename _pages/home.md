@@ -1,5 +1,5 @@
 ---
-title: "The mesoSPIM Initative"
+title: "The mesoSPIM Initiative"
 layout: splash
 permalink: /
 date: 2019-03-04
@@ -44,7 +44,7 @@ feature_row1:
     btn_class: "btn--primary"
   - image_path: /assets/images/landing/geneva_2018_lowres.jpg
     title: "Meetings and Workshops"
-    excerpt: "Members of the mesoSPIM initative organize a variety of workshops for the community."
+    excerpt: "Members of the mesoSPIM initiative organize a variety of workshops for the community."
     url: "/meetings_and_workshops/"
     btn_label: "Upcoming meetings"
     btn_class: "btn--primary"

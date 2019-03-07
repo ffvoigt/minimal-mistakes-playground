@@ -17,7 +17,8 @@ feature_row_sample_and_data:
     alt: "placeholder image 2"
     title: "From your sample to data in less than 10 minutes"
     excerpt: 'A mesoSPIM can provide you with isotropic overview data from a cleared
-    and mounted whole mouse brain within less than 10 minutes.'
+    and mounted whole mouse brain within less than 10 minutes. Typical single-color acquisitions
+    in cleared mouse brains are done at 5-6 '
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row_aslm:

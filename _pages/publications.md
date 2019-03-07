@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 layout: single
 classes: wide
-excerpt: "Publications and preprints of the mesoSPIM initative."
+excerpt: "Publications and preprints of the mesoSPIM initiative."
 toc: false
 header:
   overlay_color: "#000"

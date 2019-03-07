@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 layout: single
 classes: wide
-excerpt: "The mesoSPIM Initative."
+excerpt: "The mesoSPIM Initiative."
 toc: false
 header:
   overlay_color: "#000"
@@ -41,7 +41,7 @@ in Dresden which resulted in the [ETL-SPIM](https://www.osapublishing.org/oe/abs
 In his MSc studies at ETH Zurich, he designed [two-photon mesoscopes](https://elifesciences.org/articles/14679). In a collaboration
 with the lab of [Ursula Keller at ETH Zurich](http://www.ulp.ethz.ch/), he designed
 cost-efficient femtosecond lasers and [demonstrated their potential for multiphoton imaging](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-8-7-3213).
-The mesoSPIM initative is part of his PhD studies at the University of Zurich.
+The mesoSPIM initiative is part of his PhD studies at the University of Zurich.
 
 ![image-left]({{ site.url }}/assets/images/authors/FHelmchen_2012_crop_small2.jpg){: .align-left}**Fritjof Helmchen** is Professor of Neuroscience and Co-Director of the Brain Research Institute.
 His research is focused on the development and application of optical methods, in

@@ -37,7 +37,7 @@ the mesoSPIM setup is unique in combining all of them.
 
 ### How does the mesoSPIM compare to the openSPIM?
 The openSPIM is most successful as an educational tool to train microscopists in how to set up
-and operate a light-sheet microscope. The mesoSPIM initative is intended to
+and operate a light-sheet microscope. The mesoSPIM initiative is intended to
 provide the imaging community with facility-grade light-sheet setups for imaging
 in cleared tissue. It is thus not intended to be used for long-term time-lapse
 imaging such as the openSPIM. In addition, the openSPIM is based on standard

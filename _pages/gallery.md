@@ -1,5 +1,5 @@
 ---
-title: "Gallery"
+title: "The mesoSPIM gallery"
 permalink: /gallery/
 layout: splash
 categories:
