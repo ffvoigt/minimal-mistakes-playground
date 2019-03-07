@@ -86,8 +86,9 @@ Botond Roska
 Sven Hildebrand, Anna Schueth, Alard Roebroeck
 
 ## Contact
-Fabian Voigt
-Brain Research Institute
-University of Zurich
-Winterthurerstrasse 190
+Fabian Voigt<br>
+[Email](mailto:voigt@hifo.uzh.ch)<br>
+Brain Research Institute<br>
+University of Zurich<br>
+Winterthurerstrasse 190<br>
 CH-8057 Switzerland
