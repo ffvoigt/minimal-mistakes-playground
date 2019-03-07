@@ -1,25 +1,60 @@
 ---
 permalink: /faq/
-title: "FAQ"
+title: "Frequently asked questions"
 layout: single
 classes: wide
-excerpt: "Frequently asked questions"
+excerpt: "For users and developers"
 toc: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: "/assets/images/headers/mesospim-red-blue-setup2.jpg"
 ---
 
 ## General questions
 
 ### What are the unique features of a mesoSPIM?
+The mesoSPIM is a combination of the following features:
+* large travel range (52 x 52 x 102 mm in a mesoSPIM Version 5) which can accomodate a
+whole cleared mouse CNS
+* axially scanned light-sheet microscopy ([ASLM](/aslm/)) excitation path allowing for
+an axial resolution of 6.5 μm across at least 13.3 mm FOV which leads to near isotropic
+imaging conditions at low zoom
+* capable of multiview imaging (sample rotation is easy)
+* fast (<10 minutes) isotropic (6.5 μm pixel size) imaging of a whole mouse brain
+* easy and quick sample exchange
+* compatible with sample mounting in cuvettes
+* modular sample holders and modular immersion cuvettes allowing
+for quick switching between different clearing media
+* horizontal detection path (allows for easy sample rotation)
+* macro-zoom system in the detection path with 2-20 mm FOV
+* dual-sided illumination
+* illumination path designed to reduce shadows
+* open [hardware](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation/wiki) and software
 
-### How does the mesoSPIM compare to other light-sheet instruments?
+Most existing light-sheet microscopes combine a variety of these features, but
+the mesoSPIM setup is unique in combining all of them.
 
-#### openSPIM
+### How does the mesoSPIM compare to the openSPIM?
+The openSPIM is most successful as an educational tool to train microscopists in how to set up
+and operate a light-sheet microscope. The mesoSPIM initative is intended to
+provide the imaging community with facility-grade light-sheet setups for imaging
+in cleared tissue. It is thus not intended to be used for long-term time-lapse
+imaging such as the openSPIM. In addition, the openSPIM is based on standard
+microscope optics whereas the mesoSPIM is
+based on a macro-zoom setup. This means that the maximum achievable FOVs with an openSPIM
+is around 5 to 10 mm. In contrast, the mesoSPIM achieves up to 20 mm FOV and has an
+excitation path that can illuminate the full FOV. The mesoSPIM excitation path
+is also designed to reduce shadowing and contains tunable lenses for the [ASLM mode](/aslm/)
+which allows for uniform axial resolution across the FOV. In addition, the mesoSPIM
+excitation path is dual-sided like a variant of the openSPIM (the T-SPIM).
+All existing mesoSPIM setups have at least for laser lines to be able to image a wide variety
+of fluorophores. All these additional features mean that a typical mesoSPIM is  
+two to five-fold more expensive as common openSPIM variants.
 
-#### LaVision BioTec Ultramicroscope II
-
-#### PhaseView Alpha 3
-
-#### Zeiss Z.1
+### Where can find a mesoSPIM to test my samples?
+Please have a look in the [list of operating mesoSPIM instruments](/setups/).
+Many of the labs and facilities operating a mesoSPIM are open to interested users.
 
 ## Budget and installation
 
