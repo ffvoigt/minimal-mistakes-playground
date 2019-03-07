@@ -61,7 +61,11 @@ feature_row_sample_mounting:
   - image_path: /assets/images/features/sample_mounting_1600.jpg
     alt: "Sample mounting is easy"
     title: "Mounting and exchanging samples is easy"
-    excerpt: 'The mesoSPIM imaging chameber asdoasklfjasdlöflasjdfaks ajkdaksjflk alfjdaskf'
+    excerpt: 'The current generation of the mesoSPIM uses a 1x air objective (Olympus MVPLAPO1x). Samples are
+    inserted from the top into an immersion cuvette (bottom) filled with a refractive index matching solution.   
+    The sample holders use kinematic mounts with magnets and can be exchanged within seconds. For CLARITY,
+    samples are typically inserted into a sample cuvette (shown here), whereas hard samples (i.e. with iDISCO or BABB clearing)
+    are clamped in a 3D-printed holder.'
     url: "/assets/images/features/sample_mounting_1600.jpg"
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
@@ -83,13 +87,15 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row5:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Uniform axial resolution across the FOV"
-    excerpt: 'ASLM'
-    url: "#test-link"
-    btn_label: "Read More"
+feature_row_all_clearing_techniques:
+  - image_path: /assets/images/gallery/mesospim_sample_1_lowres.jpg
+    alt: "Compatible with all clearing techniques"
+    title: "Compatible with all clearing techniques"
+    excerpt: 'The mesoSPIM has been tested with active and passive CLARITY, X-CLARITY,
+    CUBIC-X, BABB, iDISCO, to MASH (iDISCO/ECi) in a wide selection of samples from mouse
+    brains, whole mouse CNS, a chicken embryo, Drosophila melanogaster, and human neocortex.'
+    url: "/gallery/"
+    btn_label: "Check out the mesoSPIM gallery for examples"
     btn_class: "btn--primary"
 feature_row6:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -135,7 +141,7 @@ feature_row9:
 
 {% include feature_row id="feature_row_sample_mounting" type="left" %}
 
-{% include feature_row id="feature_row_sample_holders" type="left" %}
+{% include feature_row id="feature_row_all_clearing_techniques" type="left" %}
 
 {% include feature_row id="feature_row_software" type="left" %}
 
