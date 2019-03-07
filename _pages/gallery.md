@@ -8,7 +8,7 @@ tags:
   - gallery
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/headers/chick_embryo2.jpg
   caption: "6-day chick embryo stained for neurofilament."
 excerpt: "From setups to datasets."
@@ -80,29 +80,29 @@ gallery:
 
   - url: /assets/images/gallery/L5_YCX_1x_full.jpg
     image_path: /assets/images/gallery/L5_YCX_1x_lowres.jpg
-    alt: "Rbp4-cre-YCX2.60 mouse brain: L5 neurons and autofluorescence"
-    title: "Rbp4-cre-YCX2.60 mouse brain: L5 neurons and autofluorescence"
+    alt: "Rbp4Cre-YCX2.60 mouse brain cleared using passive CLARITY: L5 neurons and autofluorescence"
+    title: "Rbp4Cre-YCX2.60 mouse brain cleared using passive CLARITY: L5 neurons and autofluorescence"
   - url: /assets/images/gallery/L5_YCX_DG_full.jpg
     image_path: /assets/images/gallery/L5_YCX_DG_lowres.jpg
-    alt: "Rbp4-cre-YCX2.60 mouse brain: Hippocampus (XY view)"
-    title: "Rbp4-cre-YCX2.60 mouse brain: Hippocampus (XY view)"
+    alt: "Rbp4Cre-YCX2.60 mouse brain cleared using passive CLARITY: Hippocampus (XY view)"
+    title: "Rbp4Cre-YCX2.60 mouse brain cleared using passive CLARITY: Hippocampus (XY view)"
   - url: /assets/images/gallery/L5_YCX_DG_reslice_full.jpg
     image_path: /assets/images/gallery/L5_YCX_DG_reslice_lowres.jpg
-    alt: "Rbp4-cre-YCX2.60 mouse brain: Hippocampus (XZ view)"
-    title: "Rbp4-cre-YCX2.60 mouse brain: Hippocampus (XZ view)"
+    alt: "Rbp4Cre-YCX2.60 mouse brain cleared using passive CLARITY: Hippocampus (XZ view)"
+    title: "Rbp4Cre-YCX2.60 mouse brain cleared using passive CLARITY: Hippocampus (XZ view)"
 
   - url: /assets/images/gallery/DISCO_rat_OB_1_full.jpg
     image_path: /assets/images/gallery/DISCO_rat_OB_1_lowres.jpg
-    alt: "Rat olfactory bulb with nuclear staining (ToPro) - XY view"
-    title: "Rat olfactory bulb with nuclear staining (ToPro) - XY view"
+    alt: "Rat olfactory bulb with nuclear staining (ToPro) and DISCO-clearing - XY view"
+    title: "Rat olfactory bulb with nuclear staining (ToPro) and DISCO-clearing - XY view"
   - url: /assets/images/gallery/DISCO_rat_OB_2_full.jpg
     image_path: /assets/images/gallery/DISCO_rat_OB_2_lowres.jpg
-    alt: "Rat olfactory bulb with nuclear staining (ToPro) - XZ view"
-    title: "Rat olfactory bulb with nuclear staining (ToPro) - XZ view"
+    alt: "Rat olfactory bulb with nuclear staining (ToPro) and DISCO-clearing - XZ view"
+    title: "Rat olfactory bulb with nuclear staining (ToPro) and DISCO-clearing - XZ view"
   - url: /assets/images/gallery/DISCO_rat_OB_3_full.jpg
     image_path: /assets/images/gallery/DISCO_rat_OB_3_lowres.jpg
-    alt: "Rat olfactory bulb with nuclear staining (ToPro) - YZ view"
-    title: "Rat olfactory bulb with nuclear staining (ToPro) - YZ view"
+    alt: "Rat olfactory bulb with nuclear staining (ToPro) and DISCO-clearing - YZ view"
+    title: "Rat olfactory bulb with nuclear staining (ToPro) and DISCO-clearing - YZ view"
 
   - url: /assets/images/gallery/iDISCO_mouse_vasculature_1_full.jpg
     image_path: /assets/images/gallery/iDISCO_mouse_vasculature_1_lowres.jpg
