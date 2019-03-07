@@ -35,7 +35,9 @@ feature_row_multiview:
     alt: "Multiview imaging"
     title: "Capable of multiview imaging"
     excerpt: 'The mesoSPIM has a vertical sample rotation axis similar to the original SPIM. This allows 360° rotation of the
-    sample without changing the direction of gravity. This avoids any rotation-induced distortions of soft samples.'
+    sample without changing the direction of gravity. This avoids any rotation-induced distortions of soft samples.
+    Shown is a multi-color acquisition (Alexa 594 & Autofluorescence excited at 405 nm) of a 7-day old chick
+    embryo stained for neurofilament and cleared using BABB. '
     url: "/assets/images/features/multiview-3840.jpg"
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
