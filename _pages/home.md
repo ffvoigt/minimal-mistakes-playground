@@ -48,7 +48,7 @@ feature_row1:
     url: "/meetings_and_workshops/"
     btn_label: "Upcoming meetings"
     btn_class: "btn--primary"
-  - image_path: /assets/images/setups/mesoSPIM-Wyss-lowres.jpg
+  - image_path: /assets/images/landing/mesoSPIM-Wyss-lowres.jpg
     alt: "Wyss mesoSPIM"
     title: "Find a mesoSPIM near you."
     excerpt: "Currently, there are 5 mesoSPIM setups in operation."

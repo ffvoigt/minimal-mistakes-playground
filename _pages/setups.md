@@ -28,7 +28,7 @@ feature_row1:
   btn_label: "Link"
   btn_class: "btn--primary"
 feature_row2:
-- image_path: /assets/images/setups/mesoSPIM-Wyss-lowres.jpg
+- image_path: /assets/images/setups/mesoSPIM_wyss2_lowres.jpg
   alt: "Wyss mesoSPIM"
   title: "#3 - Advanced Lightsheet Imaging Center, Wyss Center, Geneva, Switzerland"
   excerpt: 'The first mesoSPIM outside of Zurich saw first light as a Version 4 in March 2018. It is open to users from both academia and industry. The facility also contains
@@ -46,11 +46,11 @@ feature_row3:
   btn_label: "Link"
   btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/setups/mesoSPIM_swc_1_lowres.jpg
     alt: "Sainsbury Wellcome mesoSPIM"
     title: "#5 - Advanced Microscopy Facility, Sainsbury Wellcome Centre for Neural Circuits and Behaviour, London, UK"
     excerpt: 'The fifth mesoSPIM (and the first outside of Switzerland) became operational in December 2018.'
-    url: "https://www.ucl.ac.uk/swc"
+    url: "https://www.sainsburywellcome.org/web/content/advanced-microscopy"
     btn_label: "Link"
     btn_class: "btn--primary"      
 ---
