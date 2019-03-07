@@ -6,7 +6,7 @@ excerpt: "Open for everyone"
 toc: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.1"
   overlay_image: "/assets/images/headers/mesospim-red-blue-setup2.jpg"
   actions:
   - label: "Build your own"
