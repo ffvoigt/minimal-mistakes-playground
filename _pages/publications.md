@@ -1,10 +1,15 @@
 ---
 permalink: /publications/
-title: "mesoSPIM Publications"
+title: "Publications"
 layout: single
 classes: wide
 excerpt: "Publications and preprints of the mesoSPIM initative."
 toc: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/headers/blue-mesospim-neon.jpg
+  caption: "Photo credit: **Sainsbury Wellcome Center, London**"
 ---
 
 ## Preprints
