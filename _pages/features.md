@@ -21,7 +21,7 @@ feature_row_sample_and_data:
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row_aslm:
-  - image_path: /assets/landing/ASLM-VIP-landing-600.jpg
+  - image_path: /assets/images/landing/ASLM-VIP-landing-600.jpg
     url: /aslm/
     alt: "Axially scanned light-sheet microscopy"
     title: "Isotropy across large FOVs"
