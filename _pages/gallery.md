@@ -11,6 +11,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/headers/chick_embryo2.jpg
   caption: "6-day chick embryo stained for neurofilament."
+excerpt: "From setups to datasets."
 gallery:
   - url: /assets/images/gallery/mesospim_wyss2_full.jpg
     image_path: /assets/images/gallery/mesospim_wyss2_lowres.jpg
