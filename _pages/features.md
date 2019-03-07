@@ -58,10 +58,10 @@ feature_row_software:
     btn_label: "Visit the Github repository"
     btn_class: "btn--primary"
 feature_row_sample_mounting:
-  - image_path: /assets/images/features/sample_and_data_600.jpg
-    alt: "Easy sample mounting"
-    title: "Easy sample mounting"
-    excerpt: 'Sample mounting text'
+  - image_path: /assets/images/features/sample_mounting_1600.jpg
+    alt: "Sample mounting is easy"
+    title: "Mounting and exchanging samples is easy"
+    excerpt: 'The mesoSPIM imaging chameber asdoasklfjasdlöflasjdfaks ajkdaksjflk alfjdaskf'
     url: "/assets/images/features/sample_mounting_1600.jpg"
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
