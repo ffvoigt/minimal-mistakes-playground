@@ -35,12 +35,12 @@ For more information on the mesoSPIM history, please visit the [mesoSPIM wiki](h
 ![image-left]({{ site.url }}/assets/images/authors/voigt3.jpg){: .align-left}Fabian F. Voigt is a PhD student in the laboratory of Fritjof Helmchen at
 the Brain Research Institute, University of Zurich. As a BSc student in Interdisciplinary
 Science, Fabian started out building light-sheet endoscopes for in vivo calcium imaging
-in mice (miniSPIM). In his BSc thesis, he used electrically tunable lenses (ETL) for fast 3D
-two-photon imaging and later brought the technology to the lab of Jan Huisken at MPI-CBG
-in Dresden which resulted in the ETL-SPIM, a fast volume scanning light-sheet microscope.
-In his MSc studies at ETH Zurich, he designed and built two-photon mesoscopes. In a collaboration
+in mice ([miniSPIM](https://www.osapublishing.org/ol/viewmedia.cfm?uri=ol-35-9-1413)). In his BSc thesis, he used electrically tunable lenses (ETL) for fast
+[3D two-photon imaging](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-2-7-2035) and later brought the technology to the lab of Jan Huisken at MPI-CBG
+in Dresden which resulted in the [ETL-SPIM](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-18-21010), a fast volume scanning light-sheet microscope.
+In his MSc studies at ETH Zurich, he designed [two-photon mesoscopes](https://elifesciences.org/articles/14679). In a collaboration
 with the lab of [Ursula Keller at ETH Zurich](http://www.ulp.ethz.ch/), he designed
-cost-efficient femtosecond lasers and demonstrated their potential for multiphoton imaging.
+cost-efficient femtosecond lasers and [demonstrated their potential for multiphoton imaging](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-8-7-3213).
 The mesoSPIM initative is part of his PhD studies at the University of Zurich.
 
 ![image-left]({{ site.url }}/assets/images/authors/FHelmchen_2012_crop_small2.jpg){: .align-left}Fritjof Helmchen is Professor of Neuroscience and Co-Director of the Brain Research Institute.
