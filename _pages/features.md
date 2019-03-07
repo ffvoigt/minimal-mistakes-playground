@@ -20,6 +20,14 @@ feature_row_sample_and_data:
     and mounted whole mouse brain within less than 10 minutes.'
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
+feature_row_aslm:
+  - image_path: /assets/landing/ASLM-VIP-landing-600.jpg
+    url: /aslm/
+    alt: "Axially scanned light-sheet microscopy"
+    title: "Isotropy across large FOVs"
+    excerpt: 'The mesoSPIM is an axially scanned light-sheet microscope (ASLM) for uniform z-resolution across the FOV.'
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 feature_row_multiview:
   - image_path: /assets/images/features/multiview-600.jpg
     alt: "Multiview imaging"
@@ -103,6 +111,8 @@ feature_row9:
 ---
 
 {% include feature_row id="feature_row_sample_and_data" type="left" %}
+
+{% include feature_row id="feature_row_aslm" type="left" %}
 
 {% include feature_row id="feature_row_multiview" type="left" %}
 
