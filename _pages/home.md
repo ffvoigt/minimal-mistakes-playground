@@ -35,7 +35,7 @@ feature_row0:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row1:
-  - image_path: /assets/images/landing/mesoSPIM_V5_lowres.jpg
+  - image_path: /assets/images/landing/mesospim_wyss2_lowres.jpg
     alt: "placeholder image 2"
     title: "Open Hard & Software"
     excerpt: "The mesoSPIM is an open hardware project."
