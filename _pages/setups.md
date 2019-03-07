@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [**Stephane Pages**]"
 excerpt: "Light-sheet microscopes in Switzerland and beyond."
 feature_row0:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/gallery/mesoSPIM_hifo1_lowres.jpg
     alt: "HIFO mesoSPIM"
     title: "#1 - Helmchen lab, Brain Research Institute, University of Zurich, Switzerland"
     excerpt: 'The oldest mesoSPIM saw first light in October 2015 (as a Version 0). The most recent upgrade in May 2018 brought it to Version 4. For background information
