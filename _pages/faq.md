@@ -39,7 +39,7 @@ the mesoSPIM setup is unique in combining all of them.
 The openSPIM is most successful as an educational tool to train microscopists in how to set up
 and operate a light-sheet microscope. The mesoSPIM initiative is intended to
 provide the imaging community with facility-grade light-sheet setups for imaging
-in cleared tissue. It is thus not intended to be used for long-term time-lapse
+in cleared tissue. It is not intended to be used for long-term time-lapse
 imaging such as the openSPIM. In addition, the openSPIM is based on standard
 microscope optics whereas the mesoSPIM is
 based on a macro-zoom setup. This means that the maximum achievable FOVs with an openSPIM
@@ -48,9 +48,9 @@ excitation path that can illuminate the full FOV. The mesoSPIM excitation path
 is also designed to reduce shadowing and contains tunable lenses for the [ASLM mode](/aslm/)
 which allows for uniform axial resolution across the FOV. In addition, the mesoSPIM
 excitation path is dual-sided like a variant of the openSPIM (the T-SPIM).
-All existing mesoSPIM setups have at least for laser lines to be able to image a wide variety
+All existing mesoSPIM setups have at least four laser lines to be able to image a wide variety
 of fluorophores. All these additional features mean that a typical mesoSPIM is
-two to five-fold more expensive as common openSPIM variants.
+two to five-fold more expensive as common openSPIM variants. 
 
 ### Where can find a mesoSPIM to test my samples?
 Please have a look in the [list of operating mesoSPIM instruments](/setups/).
