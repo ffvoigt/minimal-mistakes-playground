@@ -43,8 +43,8 @@ gallery:
     image_path: /assets/images/gallery/TPH2_tdTomato_0_lowres.jpg
     alt: "Overview image of a TPH2Cre-tdTomato mouse brain cleared using passive CLARITY."
     title: "Overview image of a TPH2Cre-tdTomato mouse brain cleared using passive CLARITY."
-  - url: /assets/images/gallery/TPH2_tdTomato_1_lowres.jpg
-    image_path: /assets/images/gallery/TPH2_tdTomato_1_full.jpg
+  - url: /assets/images/gallery/TPH2_tdTomato_1_full.jpg
+    image_path: /assets/images/gallery/TPH2_tdTomato_1_lowres.jpg
     alt: "Overview image (XZ view) of a TPH2Cre-tdTomato mouse cerebellum cleared using passive CLARITY."
     title: "Overview image (XZ view) of a TPH2Cre-tdTomato mouse cerebellum cleared using passive CLARITY."  
   - url: /assets/images/gallery/tph2_purkinje1_full.jpg
