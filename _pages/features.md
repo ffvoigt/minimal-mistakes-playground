@@ -44,13 +44,13 @@ feature_row_software:
     url: /assets/images/features/mesospim-control-1600.jpg
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Dual-sided illumination"
-    excerpt: 'Using an Olympus MVX-10 in combination with a MVPLAPO1x objective'
-    url: "#test-link"
-    btn_label: "Read More"
+feature_row_sample_mounting:
+  - image_path: /assets/images/features/sample_mounting_600.jpg
+    alt: "Easy sample mounting"
+    title: "Easy sample mounting"
+    excerpt: 'Sample mounting text'
+    url: "/assets/images/features/sample_mounting_1600.jpg"
+    btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -106,11 +106,13 @@ feature_row9:
 
 {% include feature_row id="feature_row_multiview" type="left" %}
 
+{% include feature_row id="feature_row_sample_mounting" type="left" %}
+
 {% include feature_row id="feature_row_sample_holders" type="left" %}
+
 
 {% include feature_row id="feature_row_software" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="left" %}
 
