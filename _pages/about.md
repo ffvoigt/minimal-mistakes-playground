@@ -19,14 +19,18 @@ uncommonly large samples or different illumination schemes.
 In addition, we
 
 ## Team
-
-Fabian F. Voigt is a PhD student in the laboratory of Fritjof Helmchen at
-the Brain Research Institute, University of Zurich. As a Bsc student, Fabian started
-out building light-sheet endoscopes, countless two-photon microscopes 
+![image-left]({{ site.url }}/assets/images/authors/voigt.jpg){: .align-left}Fabian F. Voigt is a PhD student in the laboratory of Fritjof Helmchen at
+the Brain Research Institute, University of Zurich. As a BSc student in Interdisciplinary
+Science, Fabian started out building light-sheet endoscopes. He then switched to
+designing and building two-photon mesoscopes and femtosecond lasers in his MSc studies at ETH
+Zurich. The mesoSPIM initative is part of his PhD studies at the University of Zurich.
 
 Fritjof Helmchen is Professor of Neuroscience and Co-Director of the Brain Research Institute.
 His research is focused on the development and application of optical methods, in
-particular two-photon microscopy, to study neural activity on the subcellular, cellular, and circuit level. His group has pioneered several microscopy techniques, including 3D, high-speed, and multi-area in vivo two-photon imaging, and has contributed to recent advancements in the study of cortical microcircuits.
+particular two-photon microscopy, to study neural activity on the subcellular, cellular,
+and circuit level. His group has pioneered several microscopy techniques, including
+3D, high-speed, and multi-area in vivo two-photon imaging, and has contributed
+to recent advancements in the study of cortical microcircuits.
 
 ## Collaborators
 
