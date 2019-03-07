@@ -56,6 +56,12 @@ two to five-fold more expensive as common openSPIM variants.
 Please have a look in the [list of operating mesoSPIM instruments](/setups/).
 Many of the labs and facilities operating a mesoSPIM are open to interested users.
 
+### What is the difference between mesoSPIM version 5 and its predecessors?
+The most recent (and recommended) version 5 differs from version 4 in a different
+set of stages to avoid a [problem with stage roll / wobble](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation/wiki/mesoSPIM_V4_stage_wobble).
+Compared to the 44.5 x 44.5 x 100 mm travel range of version 4, version 5 has a slightly larger range (52 x 52 x 102 mm).
+An overview of all mesoSPIM versions can be found [here](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation/wiki/mesoSPIM_history).
+
 ## Budget and installation
 
 ### How much does a mesoSPIM cost?
@@ -72,12 +78,6 @@ most expensive part of the instrument (approx. 1/2 to 1/3 of the total budget).
 Yes, by using only a single excitation wavelength and a single illumination arm. If multiple
 laser wavelengths are required, [building a custom laser combiner](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173879)
 could be an option.
-
-### What is the difference between mesoSPIM version 5 and its predecessors?
-The most recent (and recommended) version 5 differs from version 4 in a different
-set of stages to avoid a [problem with stage roll / wobble](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation/wiki/mesoSPIM_V4_stage_wobble).
-Compared to the 44.5 x 44.5 x 100 mm travel range of version 4, version 5 has a slightly larger range (52 x 52 x 102 mm).
-An overview of all mesoSPIM versions can be found [here](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation/wiki/mesoSPIM_history).
 
 ### How complicated is it to set up a mesoSPIM?
 We recommend setting up a mesoSPIM to researchers how have previous experience in setting up
