@@ -7,7 +7,7 @@ tags:
   - mesospim
 author: Fabian Voigt
 ---
-![alt]({{ site.url }}{{ site.baseurl }}"/assets/images/posts/2019-03-07-coming-soon.jpg")
+![alt]({{ site.url }}/assets/images/posts/2019-03-07-coming-soon.jpg)
 
 After a long wait, it is **finally time to retire** the "Coming-soon" page that was
 displayed at mesospim.org and replace it with this new webpage!
