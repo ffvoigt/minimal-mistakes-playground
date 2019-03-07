@@ -3,16 +3,33 @@ permalink: /about/
 title: "About"
 layout: single
 classes: wide
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "The mesoSPIM Initative."
 toc: false
 ---
 
 ## Mission
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+The ‘mesoscale selective plane illumination microscopy’ (mesoSPIM) initiative aims
+to provide the imaging community with open-source light-sheet microscopes for
+large cleared samples. On the one hand, it is aimed at neuroscientists and
+developmental biologists seeking high-quality anatomical data from cleared samples, on
+the other hand, it strives to provide instrumentation developers with  
+imaging platforms that can be tailored towards specific needs – i.e. to accommodate
+uncommonly large samples or different illumination schemes.
+
+In addition, we
 
 ## Team
 
+Fabian F. Voigt is a PhD student in the laboratory of Fritjof Helmchen at
+the Brain Research Institute, University of Zurich. As a Bsc student, Fabian started
+out building light-sheet endoscopes, countless two-photon microscopes 
+
+Fritjof Helmchen is Professor of Neuroscience and Co-Director of the Brain Research Institute.
+His research is focused on the development and application of optical methods, in
+particular two-photon microscopy, to study neural activity on the subcellular, cellular, and circuit level. His group has pioneered several microscopy techniques, including 3D, high-speed, and multi-area in vivo two-photon imaging, and has contributed to recent advancements in the study of cortical microcircuits.
+
 ## Collaborators
+
 ### University of Zurich & ETH Zurich
 Evgenia Platonova, Rahel Kästli, Martina Schättin, Philipp Bethge, Karen Haenraets,
 Noémie Frézel, Esther Stöckli, Urs Ziegler, Hanns Ulrich Zeilhofer, Theofanis Karayannis
