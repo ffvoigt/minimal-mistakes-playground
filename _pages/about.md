@@ -5,6 +5,10 @@ layout: single
 classes: wide
 excerpt: "The mesoSPIM Initative."
 toc: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: "/assets/images/headers/mesospim-red-blue-setup2.jpg"
 ---
 
 ## Mission
