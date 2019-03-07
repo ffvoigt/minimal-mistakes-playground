@@ -11,7 +11,7 @@ header:
   overlay_image: "/assets/images/headers/mesospim-red-blue-setup2.jpg"
 ---
 
-# General questions
+## General questions
 
 ### What are the unique features of a mesoSPIM?
 The mesoSPIM is a combination of the following features:
@@ -62,7 +62,7 @@ set of stages to avoid a [problem with stage roll / wobble](https://github.com/m
 Compared to the 44.5 x 44.5 x 100 mm travel range of version 4, version 5 has a slightly larger range (52 x 52 x 102 mm).
 An overview of all mesoSPIM versions can be found [here](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation/wiki/mesoSPIM_history).
 
-# Budget and installation
+## Budget and installation
 
 ### How much does a mesoSPIM cost?
 Depending on the configuration, a mesoSPIM Version 5 costs between 169600 to 239600 USD (Swiss prices
@@ -84,7 +84,7 @@ We recommend setting up a mesoSPIM to researchers how have previous experience i
 custom microscopes such as two-photon or other light-sheet instruments. If you do not have
 prior experience with such instruments, please check out the [openSPIM](https://openspim.org).
 
-# Clearing methods
+## Clearing methods
 
 ### What clearing techniques is the mesoSPIM compatible with?
 The mesoSPIM has been tested in combination with active & passive CLARITY, CUBIC, BABB, iDISCO,
@@ -92,7 +92,7 @@ and ECi-based clearing methods. As this list covers approaches using a hydrogel 
 using organic solvents, we believe that the **mesoSPIM is compatible with all existing clearing
 techniques**.
 
-# Software
+## Software
 
 ### Where can I find the mesoSPIM-software?
 mesoSPIM-control can be found [here](https://github.com/mesoSPIM/mesoSPIM-control).

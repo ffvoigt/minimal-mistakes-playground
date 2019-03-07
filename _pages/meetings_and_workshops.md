@@ -18,7 +18,7 @@ header:
 Irchel Campus, UZH Zürich. **Registration is open till March 29th!**
 
 {% capture fig_img %}
-![Foo]({{ "/assets/images/meetings/SLMW_V14_A3_low_quality.jpg" | relative_url }})
+![SLMW2019 poster]({{ "/assets/images/meetings/SLMW_V14_A3_low_quality.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
