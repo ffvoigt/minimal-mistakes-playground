@@ -100,10 +100,9 @@ feature_row_open_documentation:
   btn_label: "Check out the mesoSPIM documentation"
   btn_class: "btn--primary"    
 ---
+{% include feature_row id="feature_row_optical_design" type="left" %}
 
 {% include feature_row id="feature_row_cad_overview" type="left" %}
-
-{% include feature_row id="feature_row_optical_design" type="left" %}
 
 {% include feature_row id="feature_row_cad_excitation_path" type="left" %}
 
