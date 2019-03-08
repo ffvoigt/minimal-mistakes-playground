@@ -17,8 +17,7 @@ feature_row_sample_and_data:
     alt: "From your sample to data in less than 10 minutes"
     title: "From your sample to data in less than 10 minutes"
     excerpt: 'A mesoSPIM can provide you with isotropic data from a cleared
-    and mounted whole mouse brain within less than 10 minutes. Typical single-color acquisitions
-    in cleared mouse brains are done at 6.5 μm voxel size and take approximately 6 minutes.'
+    and mounted whole mouse brain within 5-8 minutes. Typical single-color acquisitions in cleared mouse brains are done at 6.5 μm voxel size.'
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row_aslm:
@@ -38,7 +37,7 @@ feature_row_multiview:
     title: "Capable of multiview imaging"
     excerpt: 'The mesoSPIM has a vertical sample rotation axis similar to the original SPIM. This allows 360° rotation of the
     sample without changing the direction of gravity. This avoids any rotation-induced distortions of soft samples.
-    Shown is a multi-color acquisition (Alexa 594 & Autofluorescence excited at 405 nm) of a 7-day old chick
+    Shown are maximum intensity projections of a multi-color acquisition (Alexa 594 & Autofluorescence excited at 405 nm) of a 7-day old chick
     embryo stained for neurofilament and cleared using BABB. '
     url: "/assets/images/features/multiview-3840.jpg"
     btn_label: "Enlarge image"
@@ -77,7 +76,7 @@ feature_row_travel_range:
   - image_path: /assets/images/landing/cns_600.jpg
     alt: "Large travel range."
     title: "Image a whole mouse central nervous system."
-    excerpt: 'The latest version of the mesoSPIM (V5) has a **52 x 52 x 102 mm travel range**. This is sufficient to image
+    excerpt: 'The latest version of the mesoSPIM (V5) has **52 x 52 x 102 mm travel range**. This is sufficient to image
     a whole CLARITY-cleared mouse CNS. Using the rotation stage, multi-view imaging can be performed in
     such large samples.'
     url: "/whole_cns_imaging/"
@@ -110,9 +109,8 @@ feature_row_all_clearing_techniques:
   - image_path: /assets/images/gallery/mesospim_sample_1_lowres.jpg
     alt: "Compatible with all clearing techniques"
     title: "Compatible with all clearing techniques"
-    excerpt: 'The mesoSPIM has been tested with active and passive CLARITY, X-CLARITY,
-    CUBIC-X, BABB, iDISCO, to MASH (iDISCO/ECi) in a wide selection of samples from mouse
-    brains, whole mouse CNS, a chicken embryo, Drosophila melanogaster, and human neocortex.'
+    excerpt: 'The mesoSPIM has been tested with a variety of methods, ranging from active and passive CLARITY, X-CLARITY,
+    CUBIC-X, BABB, iDISCO, to MASH (iDISCO/ECi) in a wide selection of samples from mouse brains, whole mouse CNS, a chicken embryo, Drosophila melanogaster, to human neocortex.'
     url: "/gallery/"
     btn_label: "Check out the mesoSPIM gallery for examples"
     btn_class: "btn--primary"

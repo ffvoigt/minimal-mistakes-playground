@@ -23,11 +23,11 @@ header:
 
 ### What are the mesoSPIM instruments less well suited for?
 * Imaging live samples (this is the domain of classical light-sheet microscopes)
-* High-resolution (<1 µm pixelsize) scans with large number of tiles across whole mouse brains 
+* High-resolution (<1 µm pixelsize) scans with large number of tiles across whole mouse brains
 (this is better done using light-sheet instruments not based on a zoom macroscopes such as the Zeiss Z.1., the COLM)
 
-### What are the unique features of a mesoSPIM?
-The mesoSPIM is a combination of the following features:
+### What are the features of a mesoSPIM?
+The mesoSPIM instrument has the following features:
 * large travel range (52 x 52 x 102 mm in a mesoSPIM Version 5) which can accomodate a
 whole cleared mouse CNS
 * axially scanned light-sheet microscopy ([ASLM](/aslm/)) excitation path allowing for
