@@ -129,6 +129,19 @@ gallery:
     image_path: /assets/images/whole_cns/cns4_600.jpg
     alt: "Part of the spinal cord of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Volume rendering"
     title: "Part of the spinal cord of a GlyT2::EGFP mouse (cleared using X-CLARITY) - Volume rendering"
+
+  - url: /assets/images/gallery/drosophila_1_fullres.jpg
+    image_path: /assets/images/whole_cns/drosophila_1_lowres.jpg
+    alt: "Head of a Drosophila melanogaster imaged at zoom 6.3x - Surface rendering"
+    title: "Head of a Drosophila melanogaster imaged at zoom 6.3x - Surface rendering"
+  - url: /assets/images/gallery/drosophila_2_fullres.jpg
+    image_path: /assets/images/whole_cns/drosophila_2_lowres.jpg
+    alt: "Head of a Drosophila melanogaster imaged at zoom 6.3x - Surface rendering"
+    title: "Head of a Drosophila melanogaster imaged at zoom 6.3x - Surface rendering"
+  - url: /assets/images/gallery/drosophila_3_fullres.jpg
+    image_path: /assets/images/whole_cns/drosophila_3_lowres.jpg
+    alt: "Head of a Drosophila melanogaster imaged at zoom 6.3x - Surface rendering"
+    title: "Head of a Drosophila melanogaster imaged at zoom 6.3x - Surface rendering"
 ---
 
 {% include gallery %}
