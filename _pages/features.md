@@ -115,14 +115,14 @@ feature_row_all_clearing_techniques:
     btn_label: "Check out the mesoSPIM gallery for examples"
     btn_class: "btn--primary"
 feature_row_open_documentation:
-- image_path: /assets/images/gallery/mesospim_sample_1_lowres.jpg
-  alt: "Open documentation"
-  title: "Open documentation"
-  excerpt: 'The mesoSPIM parts lists, drawings, installation, and usage instructions are
-  freely available on Github.'
-  url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
-  btn_label: "Check out the mesoSPIM documentation"
-  btn_class: "btn--primary"
+  - image_path: /assets/images/gallery/mesospim_sample_1_lowres.jpg
+    alt: "Open documentation"
+    title: "Open documentation"
+    excerpt: 'The mesoSPIM parts lists, drawings, installation, and usage instructions are
+    freely available on Github.'
+    url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
+    btn_label: "Check out the mesoSPIM documentation"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row_sample_and_data" type="left" %}
