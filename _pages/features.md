@@ -83,6 +83,16 @@ feature_row_travel_range:
     url: "/whole_cns_imaging/"
     btn_label: "Learn more about imaging large samples"
     btn_class: "btn--primary"
+feature_row_screening:
+  - image_path: /assets/images/features/sample_screening_600.jpg
+    alt: "Quick screening of samples."
+    title: "Quick screening of samples."
+    excerpt: 'The combination of simple sample mounting and fast acquisitions allows quick screening of samples.
+    For example, batches of CLARITY-cleared whole mouse brains can be prepared for screening by mounting them
+    in imaging cuvettes. Thanks to the magnetic sample holders, mesoSPIM samples can be exchanged within seconds.'
+    url: "/assets/images/features/sample_screening_1600.jpg"
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
 feature_row_shadow_reduction:
   - image_path: /assets/images/features/shadow-reduction-600.jpg
     alt: "Shadow reduction"
@@ -106,6 +116,15 @@ feature_row_all_clearing_techniques:
     url: "/gallery/"
     btn_label: "Check out the mesoSPIM gallery for examples"
     btn_class: "btn--primary"
+feature_row_open_documentation:
+- image_path: /assets/images/gallery/mesospim_sample_1_lowres.jpg
+  alt: "Open documentation"
+  title: "Open documentation"
+  excerpt: 'The mesoSPIM parts lists, drawings, installation, and usage instructions are
+  freely available on Github.'
+  url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
+  btn_label: "Check out the mesoSPIM documentation"
+  btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row_sample_and_data" type="left" %}
@@ -120,6 +139,10 @@ feature_row_all_clearing_techniques:
 
 {% include feature_row id="feature_row_all_clearing_techniques" type="left" %}
 
-{% include feature_row id="feature_row_software" type="left" %}
+{% include feature_row id="feature_row_screening" type="left" %}
 
 {% include feature_row id="feature_row_shadow_reduction" type="left" %}
+
+{% include feature_row id="feature_row_software" type="left" %}
+
+{% include feature_row id="feature_open_documentation" type="left" %}
