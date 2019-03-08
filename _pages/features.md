@@ -16,9 +16,9 @@ feature_row_sample_and_data:
     url: /assets/images/features/sample_and_data_1600.jpg
     alt: "From your sample to data in less than 10 minutes"
     title: "From your sample to data in less than 10 minutes"
-    excerpt: 'A mesoSPIM can provide you with isotropic overview data from a cleared
+    excerpt: 'A mesoSPIM can provide you with isotropic data from a cleared
     and mounted whole mouse brain within less than 10 minutes. Typical single-color acquisitions
-    in cleared mouse brains are done at 5-6 '
+    in cleared mouse brains are done at 6.5 μm voxel size and take approximately 6 minutes.'
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row_aslm:
