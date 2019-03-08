@@ -35,6 +35,15 @@ feature_row_optical_design:
     url: /assets/images/design/excitation_path-zemax-3D.jpg
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row_simplified_optical_design2:
+  - image_path: /assets/images/design/simplified-optical-design-600.jpg
+    alt: "Simplified optical design"
+    title: "Optical design: Concept"
+    excerpt: 'Simplified optical design of the mesoSPIM excitation path. Simplified optical design of the mesoSPIM excitation path.
+    Simplified optical design of the mesoSPIM excitation path, Simplified optical design of the mesoSPIM excitation path.'
+    url: /assets/images/design/simplified-optical-design-1600.jpg
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
 gallery:
   - url: /assets/images/gallery/mesoSPIM_geneva1_full.jpg
     image_path: /assets/images/gallery/mesoSPIM_geneva1_lowres.jpg
