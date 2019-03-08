@@ -27,7 +27,9 @@ feature_row_aslm:
     alt: "Axially scanned light-sheet microscopy"
     title: "Isotropy across large FOVs"
     excerpt: 'The mesoSPIM is an axially scanned light-sheet microscope (ASLM) for uniform z-resolution across the FOV. In ASLM,
-    the waist of the light-sheet is scanned through the sample in synchrony with the rolling shutter readout of the camera.'
+    the waist of the light-sheet is scanned through the sample in synchrony with the rolling shutter readout of the camera.
+    At the refractive index of a CLARITY-cleared sample (n=1.45) and using 488 nm illumination, the mesoSPIM achieves an axial resolution of **6.55 μm
+    across a 13.3 mm FOV**.'
     btn_label: "Read more on ASLM."
     btn_class: "btn--primary"
 feature_row_multiview:
@@ -81,13 +83,18 @@ feature_row_travel_range:
     url: "/whole_cns_imaging/"
     btn_label: "Learn more about imaging large samples"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+feature_row_shadow_reduction:
+  - image_path: /assets/images/features/shadow-reduction-600.jpg
+    alt: "Shadow reduction"
     title: "Reduced shadowing artifacts"
-    excerpt: 'Using an Olympus MVX-10 in combination with a MVPLAPO1x objective'
-    url: "#test-link"
-    btn_label: "Read More"
+    excerpt: 'The excitation path of the mesoSPIM is designed to reduce shadowing artifacts. In a standard
+    SPIM, refraction, scattering, and absorption of the excitation light-sheet leads to shadowing artifacts (left side).
+    The mesoSPIM uses a scanned Gaussian beam with NA 0.15 to create the light-sheet. This NA is higher than in a typical
+    large-FOV digitally scanned light-sheet microscope (DSLM) which reduces shadows: The higher illumination NA shortens
+    the shadow cone behind absorbing structures such as bubbles. This leads to a very uniform illumination profile in the
+    sample and simplifies data analysis.s'
+    url: "/assets/images/features/shadow-reduction-1600.jpg"
+    btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row_all_clearing_techniques:
   - image_path: /assets/images/gallery/mesospim_sample_1_lowres.jpg
@@ -98,38 +105,6 @@ feature_row_all_clearing_techniques:
     brains, whole mouse CNS, a chicken embryo, Drosophila melanogaster, and human neocortex.'
     url: "/gallery/"
     btn_label: "Check out the mesoSPIM gallery for examples"
-    btn_class: "btn--primary"
-feature_row6:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "52 x 52 x 102 mm travel range"
-    excerpt: 'ASLM'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row7:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Compatible with all clearing techniques"
-    excerpt: 'Switching between clearing media within seconds'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row8:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Compatible with all sample mounting in cuvettes"
-    excerpt: 'ASLM'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row9:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Compatible with all sample mounting in cuvettes"
-    excerpt: 'ASLM'
-    url: "#test-link"
-    btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
@@ -147,12 +122,4 @@ feature_row9:
 
 {% include feature_row id="feature_row_software" type="left" %}
 
-{% include feature_row id="feature_row5" type="left" %}
-
-{% include feature_row id="feature_row6" type="left" %}
-
-{% include feature_row id="feature_row7" type="left" %}
-
-{% include feature_row id="feature_row8" type="left" %}
-
-{% include feature_row id="feature_row9" type="left" %}
+{% include feature_row id="feature_row_shadow_reduction" type="left" %}
