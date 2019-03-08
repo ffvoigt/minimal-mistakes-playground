@@ -12,55 +12,112 @@ header:
   - label: "Build your own"
     url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
 feature_row_cad_overview:
-  - image_path: /assets/images/cad/mesoSPIM_V5_2_600.jpg
-    alt: "Simplified optical design"
-    title: "Optical design: Concept"
+  - image_path: /assets/images/design/mesoSPIM-V5-overview-600.jpg
+    alt: "Overview: mesoSPIM V5"
+    title: "Overview: mesoSPIM V5"
     excerpt: 'Simplified optical design of the mesoSPIM excitation path'
-    url: /assets/images/cad/mesoSPIM_V5_2_1600.jpg
-    btn_label: "Enlarge image"
-    btn_class: "btn--primary"
-feature_row_simplified_optical_design:
-  - image_path: /assets/images/design/simplified-optical-design-600.jpg
-    alt: "Simplified optical design"
-    title: "Optical design: Concept"
-    excerpt: 'Simplified optical design of the mesoSPIM excitation path'
-    url: /assets/images/design/simplified-optical-design-1600.jpg
+    url: /assets/images/design/mesoSPIM-V5-overview-1600.jpg
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row_optical_design:
   - image_path: /assets/images/design/excitation_path-zemax-3D_600.jpg
-    alt: "Optical design"
+    alt: "Optical design of the excitation path "
     title: "Optical design of the excitation path"
     excerpt: 'Full design of the excitation path.'
     url: /assets/images/design/excitation_path-zemax-3D.jpg
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row_simplified_optical_design2:
-  - image_path: /assets/images/design/simplified-optical-design-600.jpg
-    alt: "Simplified optical design"
-    title: "Optical design: Concept"
-    excerpt: 'Simplified optical design of the mesoSPIM excitation path. Simplified optical design of the mesoSPIM excitation path.
-    Simplified optical design of the mesoSPIM excitation path, Simplified optical design of the mesoSPIM excitation path.'
-    url: /assets/images/design/simplified-optical-design-1600.jpg
+feature_row_cad_excitation_path:
+  - image_path: /assets/images/design/mesoSPIM-V5-excitation-path-600.jpg
+    alt: "Mechanical design of the excitation path"
+    title: "Mechanical design of the excitation path"
+    excerpt: 'Simplified optical design of the mesoSPIM excitation path'
+    url: /assets/images/design/mesoSPIM-V5-excitation-path-1600.jpg
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
-gallery:
-  - url: /assets/images/gallery/mesoSPIM_geneva1_full.jpg
-    image_path: /assets/images/gallery/mesoSPIM_geneva1_lowres.jpg
-    alt: "mesoSPIM at the Wyss Center Geneva"
-    title: "mesoSPIM at the Wyss Center Geneva"
-  - url: /assets/images/gallery/mesoSPIM_geneva2_full.jpg
-    image_path: /assets/images/gallery/mesoSPIM_geneva2_lowres.jpg
-    alt: "mesoSPIM at the Wyss Center Geneva"
-    title: "mesoSPIM at the Wyss Center Geneva"
-  - url: /assets/images/gallery/tph2_purkinje1_full.jpg
-    image_path: /assets/images/gallery/tph2_purkinje1_lowres.jpg
-    alt: "Purkinje neurons in the cerebellum"
-    title: "mesoSPIM at the Wyss Center Geneva"
+feature_row_cad_detection_path:
+  - image_path: /assets/images/design/mesoSPIM-V5-detection-path-600.jpg
+    alt: "Mechanical design of the detection path"
+    title: "Mechanical design of the detection path"
+    excerpt: 'Simplified optical design of the mesoSPIM excitation path'
+    url: /assets/images/design/mesoSPIM-V5-detection-path-1600.jpg
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
+feature_row_cad_detection_path2:
+  - image_path: /assets/images/design/mesoSPIM-V5-detection-path2-600.jpg
+    alt: "Mechanical design of the detection path 2"
+    title: "Mechanical design of the detection path 2"
+    excerpt: 'Simplified optical design of the mesoSPIM excitation path'
+    url: /assets/images/design/mesoSPIM-V5-detection-path2-1600.jpg
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
+feature_row_cad_zoom:
+  - image_path: /assets/images/design/mesoSPIM-V5-zoom-servo-600.jpg
+    alt: "Motorized zoom"
+    title: "Motorized zoom"
+    excerpt: 'Simplified optical design of the mesoSPIM zoom path'
+    url: /assets/images/design/mesoSPIM-V5-zoom-servo-1600.jpg
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
+feature_row_cad_zoom:
+  - image_path: /assets/images/design/mesoSPIM-V5-zoom-servo-600.jpg
+    alt: "Motorized zoom"
+    title: "Motorized zoom"
+    excerpt: 'Simplified optical design of the mesoSPIM zoom path'
+    url: /assets/images/design/mesoSPIM-V5-zoom-servo-1600.jpg
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
+feature_row_cad_stages:
+  - image_path: /assets/images/design/mesoSPIM-V5-sample-stages-600.jpg
+    alt: "Sample stages"
+    title: "Sample stages"
+    excerpt: 'Simplified optical design of the mesoSPIM zoom path'
+    url: /assets/images/design/mesoSPIM-V5-sample-stages-1600.jpg
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
+feature_row_cad_cuvettes:
+  - image_path: /assets/images/design/mesoSPIM-V5-cuvettes-servo-600.jpg
+    alt: "Cuvettes"
+    title: "Cuvettes"
+    excerpt: 'Simplified optical design of the mesoSPIM zoom path'
+    url: /assets/images/design/mesoSPIM-V5-cuvettes-servo-1600.jpg
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
+feature_row_sample_handling:
+  - image_path: /assets/images/design/sample_mounting_lowres-600.jpg
+    alt: "How to mount samples"
+    title: "How to mount samples"
+    excerpt: 'Simplified optical design of the mesoSPIM zoom path'
+    url: /assets/images/design/sample_mounting_highres-1600.jpg
+    btn_label: "Enlarge image"
+    btn_class: "btn--primary"
+feature_row_open_documentation:
+- image_path: /assets/images/gallery/mesospim_sample_1_lowres.jpg
+  alt: "Open documentation"
+  title: "Open documentation"
+  excerpt: 'The mesoSPIM parts lists, drawings, installation, and usage instructions are
+  freely available on Github.'
+  url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
+  btn_label: "Check out the mesoSPIM documentation"
+  btn_class: "btn--primary"    
 ---
 
-{% include feature_row id="feature_row_simplified_optical_design" type="left" %}
+{% include feature_row id="feature_row_cad_overview" type="left" %}
 
 {% include feature_row id="feature_row_optical_design" type="left" %}
 
-{% include gallery caption="The mesoSPIM gallery." %}
+{% include feature_row id="feature_row_cad_excitation_path" type="left" %}
+
+{% include feature_row id="feature_row_cad_detection_path" type="left" %}
+
+{% include feature_row id="feature_row_cad_detection_path2" type="left" %}
+
+{% include feature_row id="feature_row_cad_zoom" type="left" %}
+
+{% include feature_row id="feature_row_cad_stages" type="left" %}
+
+{% include feature_row id="feature_row_cad_cuvettes" type="left" %}
+
+{% include feature_row id="feature_row_cad_sample_handling" type="left" %}
+
+{% include feature_row id="feature_row_open_documentation" type="left" %}
