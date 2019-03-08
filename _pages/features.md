@@ -58,7 +58,7 @@ feature_row_software:
     excerpt: 'The mesoSPIM-control software is open-source and based on Python and PyQt5. It allows control
     of the ASLM mode and contains an acquisition manager, a table-based tool to create complex multichannel,
     multiview or tiling acquisitions.'
-    url: /assets/images/features/mesospim-control-1600.jpg
+    url: "https://github.com/mesoSPIM/mesoSPIM-control"
     btn_label: "Visit the Github repository"
     btn_class: "btn--primary"
 feature_row_sample_mounting:
