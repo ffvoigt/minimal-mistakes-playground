@@ -76,11 +76,11 @@ feature_row_cad_stages:
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row_cad_cuvettes:
-  - image_path: /assets/images/design/mesoSPIM-V5-cuvettes-servo-600.jpg
+  - image_path: /assets/images/design/mesoSPIM-V5-cuvettes-600.jpg
     alt: "Cuvettes"
     title: "Cuvettes"
     excerpt: 'Simplified optical design of the mesoSPIM zoom path'
-    url: /assets/images/design/mesoSPIM-V5-cuvettes-servo-1600.jpg
+    url: /assets/images/design/mesoSPIM-V5-cuvettes-1600.jpg
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row_sample_handling:
@@ -92,11 +92,10 @@ feature_row_sample_handling:
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 feature_row_open_documentation:
-- image_path: /assets/images/gallery/mesospim_sample_1_lowres.jpg
+- image_path: /assets/images/landing/mesospim_wyss2_lowres.jpg
   alt: "Open documentation"
   title: "Open documentation"
-  excerpt: 'The mesoSPIM parts lists, drawings, installation, and usage instructions are
-  freely available on Github.'
+  excerpt: 'The mesoSPIM parts lists, drawings, installation, and usage instructions are freely available on Github.'
   url: "https://github.com/mesoSPIM/mesoSPIM-hardware-documentation"
   btn_label: "Check out the mesoSPIM documentation"
   btn_class: "btn--primary"    
@@ -118,6 +117,6 @@ feature_row_open_documentation:
 
 {% include feature_row id="feature_row_cad_cuvettes" type="left" %}
 
-{% include feature_row id="feature_row_cad_sample_handling" type="left" %}
+{% include feature_row id="feature_row_sample_handling" type="left" %}
 
 {% include feature_row id="feature_row_open_documentation" type="left" %}
