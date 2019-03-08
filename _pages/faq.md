@@ -13,6 +13,19 @@ header:
 
 ## General questions
 
+### Who is the mesoSPIM project for?
+* You are looking for a versatile imaging platform for cleared tissue that can be tailored to your needs.
+* Research groups and imaging facilities with experience in building and supporting custom microscopes.
+
+### What are ideal imaging applications for a mesoSPIM?
+* Screening of large numbers of samples for clearing & labeling quality.
+* Visualization of sparse cell populations or other structures (blood vessels, plaques) in whole cleared organs.
+
+### What are the mesoSPIM instruments less well suited for?
+* Imaging live samples (this is the domain of classical light-sheet microscopes)
+* High-resolution (<1 µm pixelsize) scans with large number of tiles across whole mouse brains 
+(this is better done using light-sheet instruments not based on a zoom macroscopes such as the Zeiss Z.1., the COLM)
+
 ### What are the unique features of a mesoSPIM?
 The mesoSPIM is a combination of the following features:
 * large travel range (52 x 52 x 102 mm in a mesoSPIM Version 5) which can accomodate a
@@ -45,15 +58,15 @@ microscope optics whereas the mesoSPIM is
 based on a macro-zoom setup. This means that the maximum achievable FOVs with an openSPIM
 is around 5 to 10 mm. In contrast, the mesoSPIM achieves up to 20 mm FOV and has an
 excitation path that can illuminate the full FOV. The mesoSPIM excitation path
-is also designed to reduce shadowing and contains tunable lenses for the [ASLM mode](/aslm/)
+is also designed to reduce shadowing and contains tunable lenses for the [ASLM mode]({{ site.url }}/aslm/)
 which allows for uniform axial resolution across the FOV. In addition, the mesoSPIM
 excitation path is dual-sided like a variant of the openSPIM (the T-SPIM).
 All existing mesoSPIM setups have at least four laser lines to be able to image a wide variety
 of fluorophores. All these additional features mean that a typical mesoSPIM is
-two to five-fold more expensive as common openSPIM variants. 
+two to five-fold more expensive as common openSPIM variants.
 
 ### Where can find a mesoSPIM to test my samples?
-Please have a look in the [list of operating mesoSPIM instruments](/setups/).
+Please have a look in the [list of operating mesoSPIM instruments]({{ site.url }}/setups/).
 Many of the labs and facilities operating a mesoSPIM are open to interested users.
 
 ### What is the difference between mesoSPIM version 5 and its predecessors?
@@ -83,6 +96,9 @@ could be an option.
 We recommend setting up a mesoSPIM to researchers how have previous experience in setting up
 custom microscopes such as two-photon or other light-sheet instruments. If you do not have
 prior experience with such instruments, please check out the [openSPIM](https://openspim.org).
+
+### Where can I find the instructions to set up a mesoSPIM?
+Please have a look in the mesoSPIM [wiki](https://github.com/mesoSPIM/mesoSPIM-hardware-documentation/wiki).
 
 ## Clearing methods
 
