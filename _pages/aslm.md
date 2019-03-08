@@ -26,7 +26,9 @@ feature_row1:
     the light-sheet is translated through the sample in synchrony with
     the rolling shutter of the camera. The concept was published in 2015 by
     Dean et al. (Fiolka group). To translate the waist, we use tuneable lenses
-    by Optotune.'
+    by Optotune. At the refractive index of a CLARITY-cleared sample (n=1.45)
+    and using 488 nm illumination, the mesoSPIM achieves an axial resolution of **6.55 μm
+    across a 13.3 mm FOV**.'
     url: "https://www.sciencedirect.com/science/article/pii/S0006349515004981"
     btn_label: "ASLM paper"
     btn_class: "btn--primary"

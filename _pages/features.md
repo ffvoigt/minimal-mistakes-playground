@@ -77,7 +77,7 @@ feature_row_travel_range:
   - image_path: /assets/images/landing/cns_600.jpg
     alt: "Large travel range."
     title: "Image a whole mouse central nervous system."
-    excerpt: 'The latest version of the mesoSPIM (V5) has 52 x 52 x 102 mm travel range. This is sufficient to image
+    excerpt: 'The latest version of the mesoSPIM (V5) has a **52 x 52 x 102 mm travel range**. This is sufficient to image
     a whole CLARITY-cleared mouse CNS. Using the rotation stage, multi-view imaging can be performed in
     such large samples.'
     url: "/whole_cns_imaging/"
@@ -92,7 +92,7 @@ feature_row_shadow_reduction:
     The mesoSPIM uses a scanned Gaussian beam with NA 0.15 to create the light-sheet. This NA is higher than in a typical
     large-FOV digitally scanned light-sheet microscope (DSLM) which reduces shadows: The higher illumination NA shortens
     the shadow cone behind absorbing structures such as bubbles. This leads to a very uniform illumination profile in the
-    sample and simplifies data analysis.s'
+    sample and simplifies data analysis.'
     url: "/assets/images/features/shadow-reduction-1600.jpg"
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
